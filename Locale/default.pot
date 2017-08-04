@@ -1,0 +1,1986 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-04-22 19:01+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Config/core.php:423
+msgid "Edited your lyric"
+msgstr ""
+
+#: Controller/AlbumsController.php:28
+msgid "Unsigned artist id."
+msgstr ""
+
+#: Controller/AlbumsController.php:32
+msgid "Album not found."
+msgstr ""
+
+#: Controller/AlbumsController.php:39
+msgid "Incorrect ID."
+msgstr ""
+
+#: Controller/AlbumsController.php:92;185;246
+msgid "Invalid album"
+msgstr ""
+
+#: Controller/AlbumsController.php:105;186;242
+#: Controller/ArtistsController.php:162;208;253
+#: Controller/LyricsController.php:132;490;882
+#: Controller/UsersController.php:242;515;543;563
+msgid "Not found"
+msgstr ""
+
+#: Controller/AlbumsController.php:112
+#: Controller/LyricsController.php:499
+msgid "Artist not found"
+msgstr ""
+
+#: Controller/AlbumsController.php:139
+msgid "The album has been saved."
+msgstr ""
+
+#: Controller/AlbumsController.php:142
+#: Controller/ArtistsController.php:185
+msgid "Save status"
+msgstr ""
+
+#: Controller/AlbumsController.php:149;221
+msgid "The album could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AlbumsController.php:158;171
+#: View/Albums/add.ctp:4
+#: View/Artists/artist.ctp:19
+#: View/Lyrics/add_artist.ctp:11;30
+#: View/Lyrics/add_no_album.ctp:12
+msgid "Add Album"
+msgstr ""
+
+#: Controller/AlbumsController.php:184
+#: Controller/ArtistsController.php:206
+msgid "Empty artist!"
+msgstr ""
+
+#: Controller/AlbumsController.php:210
+msgid "The album has been updated."
+msgstr ""
+
+#: Controller/AlbumsController.php:213
+#: Controller/ArtistsController.php:231
+msgid "Update status"
+msgstr ""
+
+#: Controller/AlbumsController.php:251
+msgid "The album has been deleted."
+msgstr ""
+
+#: Controller/AlbumsController.php:254
+#: Controller/ArtistsController.php:263
+#: Controller/LyricsController.php:896
+#: Controller/RequestsController.php:72;82
+msgid "Delete status"
+msgstr ""
+
+#: Controller/AlbumsController.php:261
+msgid "The album could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ArtistsController.php:47
+msgid "Welcome"
+msgstr ""
+
+#: Controller/ArtistsController.php:56
+msgid "Unsigend letter."
+msgstr ""
+
+#: Controller/ArtistsController.php:95
+msgid "Artist not found!"
+msgstr ""
+
+#: Controller/ArtistsController.php:112;207;256
+msgid "Invalid artist"
+msgstr ""
+
+#: Controller/ArtistsController.php:182
+msgid "The artist has been saved."
+msgstr ""
+
+#: Controller/ArtistsController.php:191;240
+msgid "The artist could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ArtistsController.php:194
+msgid "Add Artist"
+msgstr ""
+
+#: Controller/ArtistsController.php:217
+#: View/Artists/edit.ctp:56
+#: View/Lyrics/edit.ctp:13
+msgid "Edit %s"
+msgstr ""
+
+#: Controller/ArtistsController.php:228
+msgid "The artist has been updated."
+msgstr ""
+
+#: Controller/ArtistsController.php:260
+msgid "The artist has been deleted."
+msgstr ""
+
+#: Controller/ArtistsController.php:269
+msgid "The artist could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DashboardController.php:55
+#: View/Elements/header.ctp:61
+msgid "Dashboard"
+msgstr ""
+
+#: Controller/DownloadController.php:44;46;57
+#: Controller/LyricsController.php:119;209;212;232;259
+msgid "Invalid lyric."
+msgstr ""
+
+#: Controller/DownloadController.php:53
+msgid "Invalid type."
+msgstr ""
+
+#: Controller/FindController.php:32;220
+msgid "Try to add more specified key."
+msgstr ""
+
+#: Controller/FindController.php:146
+msgid "Artists Search"
+msgstr ""
+
+#: Controller/FindController.php:169
+msgid "Albums Search"
+msgstr ""
+
+#: Controller/FindController.php:190
+msgid "Lyrics Search"
+msgstr ""
+
+#: Controller/FindController.php:219;229
+#: View/Find/index.ctp:62
+msgid "Specify keyword"
+msgstr ""
+
+#: Controller/LyricsController.php:238
+msgid "%s set to its new copy."
+msgstr ""
+
+#: Controller/LyricsController.php:240;249;267;276;738;750;767;790;820;841
+msgid "Edit status"
+msgstr ""
+
+#: Controller/LyricsController.php:247
+msgid "%s could not be set to new version."
+msgstr ""
+
+#: Controller/LyricsController.php:265
+msgid "%s set to its previous copy."
+msgstr ""
+
+#: Controller/LyricsController.php:274
+msgid "%s could not be set to previous version."
+msgstr ""
+
+#: Controller/LyricsController.php:285
+#: View/Lyrics/history.ctp:8
+msgid "Edit History"
+msgstr ""
+
+#: Controller/LyricsController.php:315
+#: View/Lyrics/lyricslist.ctp:16
+msgid "My Lyrics"
+msgstr ""
+
+#: Controller/LyricsController.php:322;323
+msgid "Invalid limit."
+msgstr ""
+
+#: Controller/LyricsController.php:436;639
+msgid "Empty Lyric!"
+msgstr ""
+
+#: Controller/LyricsController.php:437;483;640;886
+msgid "Invalid lyric"
+msgstr ""
+
+#: Controller/LyricsController.php:461
+msgid "Your inform has been sent successfully,Thank you."
+msgstr ""
+
+#: Controller/LyricsController.php:464
+msgid "Inform status"
+msgstr ""
+
+#: Controller/LyricsController.php:474;590;794;845
+msgid "The lyric could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LyricsController.php:478;479
+msgid "Send a note"
+msgstr ""
+
+#: Controller/LyricsController.php:519
+msgid "Album not found"
+msgstr ""
+
+#: Controller/LyricsController.php:579
+msgid "Your lyric has been added successfully."
+msgstr ""
+
+#: Controller/LyricsController.php:605;612;629
+#: View/Artists/artist.ctp:20
+#: View/Lyrics/add.ctp:139
+msgid "Add Lyric"
+msgstr ""
+
+#: Controller/LyricsController.php:656
+msgid "Edit "
+msgstr ""
+
+#: Controller/LyricsController.php:675
+msgid "There is no edit actions found,please try again."
+msgstr ""
+
+#: Controller/LyricsController.php:728
+msgid "More details"
+msgstr ""
+
+#: Controller/LyricsController.php:736
+msgid "This change request is the orginal copy. %s"
+msgstr ""
+
+#: Controller/LyricsController.php:748
+msgid "This change request is to the current copy. %s"
+msgstr ""
+
+#: Controller/LyricsController.php:765
+msgid "This change request is already been sent before. %s"
+msgstr ""
+
+#: Controller/LyricsController.php:788;839
+msgid "Lyric has been updated."
+msgstr ""
+
+#: Controller/LyricsController.php:818
+msgid "Lyric chang request have been sent to the owner of this lyric,you have to wait for approval."
+msgstr ""
+
+#: Controller/LyricsController.php:824
+msgid "The lyric request could not be sent. Please, try again."
+msgstr ""
+
+#: Controller/LyricsController.php:893
+msgid "The lyric has been deleted."
+msgstr ""
+
+#: Controller/LyricsController.php:903
+msgid "The lyric could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PagesController.php:16
+#: View/Elements/header.ctp:20
+msgid "About"
+msgstr ""
+
+#: Controller/PagesController.php:26
+#: View/Artists/welcome.ctp:76
+#: View/Elements/header.ctp:21
+#: View/Requests/view.ctp:24
+msgid "Contact"
+msgstr ""
+
+#: Controller/RequestsController.php:45
+#: View/Requests/album.ctp:50
+#: View/Requests/artist.ctp:49
+#: View/Requests/lyric.ctp:50
+#: View/Requests/view.ctp:2;14
+msgid "Request"
+msgstr ""
+
+#: Controller/RequestsController.php:61;64
+msgid "Invalid request"
+msgstr ""
+
+#: Controller/RequestsController.php:69
+msgid "The request has been deleted."
+msgstr ""
+
+#: Controller/RequestsController.php:79
+msgid "The request can not be deleted."
+msgstr ""
+
+#: Controller/RequestsController.php:94
+msgid "Requests Panel"
+msgstr ""
+
+#: Controller/RequestsController.php:119;136
+msgid "Request an Artist"
+msgstr ""
+
+#: Controller/RequestsController.php:133
+msgid "Artist request been sent successfully."
+msgstr ""
+
+#: Controller/RequestsController.php:149;187;225
+msgid "Error in request."
+msgstr ""
+
+#: Controller/RequestsController.php:157;174
+#: View/Artists/artist.ctp:16
+msgid "Request an Album"
+msgstr ""
+
+#: Controller/RequestsController.php:171
+msgid "Album request been sent successfully."
+msgstr ""
+
+#: Controller/RequestsController.php:195;212
+#: View/Albums/album.ctp:17
+msgid "Request a Lyric"
+msgstr ""
+
+#: Controller/RequestsController.php:209
+msgid "Lyric request been sent successfully."
+msgstr ""
+
+#: Controller/UsersController.php:108
+msgid "Unknown Error could not verify the user: "
+msgstr ""
+
+#: Controller/UsersController.php:250
+#: View/Elements/sidebar_dashboard.ctp:75
+msgid "Users"
+msgstr ""
+
+#: Controller/UsersController.php:278;300
+msgid "Login successfully,you are now free to add or edit lyrics."
+msgstr ""
+
+#: Controller/UsersController.php:281;303
+msgid "Login status"
+msgstr ""
+
+#: Controller/UsersController.php:288
+msgid "Invalid username or password"
+msgstr ""
+
+#: Controller/UsersController.php:294
+#: View/Artists/welcome.ctp:62
+#: View/Elements/header.ctp:53
+#: View/Users/login.ctp:7;39
+msgid "Login"
+msgstr ""
+
+#: Controller/UsersController.php:326
+msgid "You are loggedout now,thank you for using HK-Dashboard."
+msgstr ""
+
+#: Controller/UsersController.php:329
+msgid "Logout status"
+msgstr ""
+
+#: Controller/UsersController.php:355;387;390;398;401
+msgid "Unknown user."
+msgstr ""
+
+#: Controller/UsersController.php:404
+msgid "%s's Properties"
+msgstr ""
+
+#: Controller/UsersController.php:470
+msgid "Unknown section."
+msgstr ""
+
+#: Controller/UsersController.php:474
+#: View/Artists/welcome.ctp:61
+#: View/Elements/header.ctp:52
+#: View/Lyrics/note.ctp:9
+#: View/Users/completesignup.ctp:194
+#: View/Users/signup.ctp:195
+msgid "Signup"
+msgstr ""
+
+#: Controller/UsersController.php:493
+msgid "New user has been added successfully,please add further informations about you."
+msgstr ""
+
+#: Controller/UsersController.php:496;597;602
+msgid "The user has been saved"
+msgstr ""
+
+#: Controller/UsersController.php:506;529;573;606
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:526;570
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:533;580
+msgid "Add users"
+msgstr ""
+
+#: Controller/UsersController.php:547;565
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:551
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:553
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:589
+msgid "Complete Signup"
+msgstr ""
+
+#: Controller/UsersController.php:594
+msgid "New user has been added successfully,please add further infos about you."
+msgstr ""
+
+#: View/Albums/add.ctp:5
+msgid "Select artist name and provide album details or %s"
+msgstr ""
+
+#: View/Albums/add.ctp:5
+#: View/Elements/sidebar_dashboard.ctp:24
+msgid "Add new artist"
+msgstr ""
+
+#: View/Albums/add.ctp:15
+#: View/Albums/album_list.ctp:11
+#: View/Artists/add.ctp:12
+#: View/Artists/edit.ctp:72;82
+msgid "Artist Name"
+msgstr ""
+
+#: View/Albums/add.ctp:21
+#: View/Albums/add_artist.ctp:14
+#: View/Albums/edit.ctp:75;89
+msgid "Album Title"
+msgstr ""
+
+#: View/Albums/add.ctp:26
+#: View/Albums/add_artist.ctp:19
+#: View/Albums/edit.ctp:80;94
+msgid "Album Year"
+msgstr ""
+
+#: View/Albums/add.ctp:31
+#: View/Albums/add_artist.ctp:24
+#: View/Albums/edit.ctp:98
+msgid "Album 200x200 Image"
+msgstr ""
+
+#: View/Albums/add.ctp:41
+#: View/Albums/add_artist.ctp:34
+#: View/Albums/edit.ctp:84;101
+#: View/Artists/add.ctp:26
+#: View/Artists/edit.ctp:77;90
+#: View/Lyrics/add.ctp:214
+#: View/Lyrics/add_album.ctp:58
+#: View/Lyrics/add_artist.ctp:67
+#: View/Lyrics/edit.ctp:65
+#: View/Users/add.ctp:47
+#: View/Users/settings.ctp:75;88
+msgid "Save"
+msgstr ""
+
+#: View/Albums/add_artist.ctp:4
+msgid "Add album to  %s"
+msgstr ""
+
+#: View/Albums/add_artist.ctp:5
+msgid "You can %s"
+msgstr ""
+
+#: View/Albums/add_artist.ctp:5
+#: View/Lyrics/add_album.ctp:14
+#: View/Lyrics/add_artist.ctp:15
+msgid "Change artist"
+msgstr ""
+
+#: View/Albums/album.ctp:20
+msgid "The Lyric is not Available for public yet(need to be approved)."
+msgstr ""
+
+#: View/Albums/album.ctp:37
+#: View/Artists/artist.ctp:43;87
+#: View/Artists/artist_list.ctp:23
+#: View/Elements/sidebar_dashboard.ctp:57
+#: View/Elements/Dashboard/approvals.ctp:8;64
+#: View/Elements/Find/search_header.ctp:24
+#: View/Elements/Find/search_item_artist.ctp:17
+#: View/Elements/Property/header.ctp:8
+#: View/Users/profile.ctp:50;69
+msgid "Lyrics"
+msgstr ""
+
+#: View/Albums/album.ctp:40
+#: View/Artists/artist.ctp:91
+msgid "Edit album"
+msgstr ""
+
+#: View/Albums/album.ctp:41
+#: View/Artists/artist.ctp:92
+msgid "Add lyric"
+msgstr ""
+
+#: View/Albums/album.ctp:51
+#: View/Artists/artist.ctp:51;112
+#: View/Artists/artist_list.ctp:14
+msgid "edit %s"
+msgstr ""
+
+#: View/Albums/album_list.ctp:4
+msgid "Albums List"
+msgstr ""
+
+#: View/Albums/edit.ctp:34;39;63
+#: View/Artists/edit.ctp:34;39;61
+#: View/Users/settings.ctp:34;39;59
+msgid "Without photo"
+msgstr ""
+
+#: View/Albums/edit.ctp:35;63
+#: View/Artists/edit.ctp:35;61
+#: View/Users/settings.ctp:35;59
+msgid "With photo"
+msgstr ""
+
+#: View/Albums/edit.ctp:60
+#: View/Artists/edit.ctp:57
+#: View/Lyrics/edit.ctp:18
+msgid "[Delete]"
+msgstr ""
+
+#: View/Albums/edit.ctp:60
+#: View/Artists/edit.ctp:57
+msgid "delete %s"
+msgstr ""
+
+#: View/Albums/edit.ctp:60
+#: View/Artists/edit.ctp:57
+#: View/Lyrics/edit.ctp:18
+#: View/Lyrics/lyricslist.ctp:52
+msgid "Are you sure you want to delete %s?"
+msgstr ""
+
+#: View/Albums/index.ctp:2
+#: View/Artists/artist.ctp:42
+#: View/Artists/artist_list.ctp:21
+#: View/Elements/sidebar_dashboard.ctp:38
+#: View/Elements/Dashboard/approvals.ctp:7;39
+#: View/Elements/Find/search_header.ctp:23
+#: View/Elements/Find/search_item_artist.ctp:13
+#: View/Elements/Property/header.ctp:7
+#: View/Users/profile.ctp:49
+#: View/Users/property_album.ctp:9
+msgid "Albums"
+msgstr ""
+
+#: View/Albums/index.ctp:14;52
+#: View/Albums/view.ctp:47
+#: View/Posts/add.ctp:13
+#: View/Posts/edit.ctp:14
+#: View/Posts/index.ctp:10;44
+#: View/Posts/view.ctp:27
+#: View/Requests/add.ctp:17
+#: View/Requests/edit.ctp:18
+#: View/Requests/view.ctp:42
+#: View/Tests/add.ctp:13
+#: View/Tests/edit.ctp:14
+#: View/Tests/view.ctp:22
+msgid "Actions"
+msgstr ""
+
+#: View/Albums/index.ctp:29
+#: View/Posts/index.ctp:21
+#: View/Users/index.ctp:25
+msgid "View"
+msgstr ""
+
+#: View/Albums/index.ctp:30
+#: View/Lyrics/index.ctp:40
+#: View/Lyrics/lyricslist.ctp:51
+#: View/Posts/index.ctp:22
+#: View/Users/index.ctp:27
+msgid "Edit"
+msgstr ""
+
+#: View/Albums/index.ctp:31
+#: View/Elements/Request/request_item_panel.ctp:43
+#: View/Lyrics/lyricslist.ctp:52
+#: View/Posts/edit.ctp:17
+#: View/Posts/index.ctp:23
+#: View/Requests/edit.ctp:21
+#: View/Tests/edit.ctp:17
+#: View/Users/index.ctp:29
+msgid "Delete"
+msgstr ""
+
+#: View/Albums/index.ctp:31
+#: View/Albums/view.ctp:50
+#: View/Elements/Request/request_item_panel.ctp:43
+#: View/Posts/edit.ctp:17
+#: View/Posts/index.ctp:23
+#: View/Posts/view.ctp:30
+#: View/Requests/edit.ctp:21
+#: View/Requests/view.ctp:45
+#: View/Tests/edit.ctp:17
+#: View/Tests/view.ctp:25
+#: View/Users/index.ctp:29
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Albums/index.ctp:40
+#: View/Find/find_album.ctp:4
+#: View/Find/find_artist.ctp:4
+#: View/Find/find_lyric.ctp:4
+#: View/Lyrics/lyricslist.ctp:63
+#: View/Posts/index.ctp:32
+#: View/Requests/panel.ctp:38
+#: View/Tests/index.ctp:5
+#: View/Users/property_album.ctp:48
+#: View/Users/property_artist.ctp:41
+#: View/Users/property_lyric.ctp:50
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Albums/index.ctp:45
+#: View/Posts/index.ctp:37
+msgid "previous"
+msgstr ""
+
+#: View/Albums/index.ctp:47
+#: View/Posts/index.ctp:39
+msgid "next"
+msgstr ""
+
+#: View/Albums/index.ctp:54
+#: View/Albums/view.ctp:52
+msgid "New Album"
+msgstr ""
+
+#: View/Albums/index.ctp:55
+#: View/Albums/view.ctp:53
+msgid "List Artists"
+msgstr ""
+
+#: View/Albums/index.ctp:56
+#: View/Albums/view.ctp:54
+msgid "New Artist"
+msgstr ""
+
+#: View/Albums/view.ctp:2
+#: View/Elements/FileTemplate/rtf_file.ctp:11
+#: View/Elements/FileTemplate/txt_file.ctp:6
+#: View/Elements/Request/request_item.ctp:8
+#: View/Elements/Request/request_item_panel.ctp:9
+#: View/Lyrics/add.ctp:156
+#: View/Lyrics/add_artist.ctp:27
+#: View/Lyrics/history.ctp:111
+#: View/Requests/index.ctp:17;21
+#: View/Users/profile.ctp:98;124
+msgid "Album"
+msgstr ""
+
+#: View/Albums/view.ctp:4;61
+#: View/Posts/view.ctp:4
+#: View/Requests/view.ctp:4
+#: View/Tests/view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: View/Albums/view.ctp:9;65
+msgid "Unique"
+msgstr ""
+
+#: View/Albums/view.ctp:14
+msgid "Artist Id"
+msgstr ""
+
+#: View/Albums/view.ctp:19
+#: View/Lyrics/history.ctp:112
+#: View/Posts/view.ctp:9
+msgid "Title"
+msgstr ""
+
+#: View/Albums/view.ctp:24
+msgid "Year"
+msgstr ""
+
+#: View/Albums/view.ctp:29;73
+msgid "Image"
+msgstr ""
+
+#: View/Albums/view.ctp:34;77
+msgid "Available"
+msgstr ""
+
+#: View/Albums/view.ctp:39;81
+msgid "User Id"
+msgstr ""
+
+#: View/Albums/view.ctp:49
+msgid "Edit Album"
+msgstr ""
+
+#: View/Albums/view.ctp:50
+msgid "Delete Album"
+msgstr ""
+
+#: View/Albums/view.ctp:51
+msgid "List Albums"
+msgstr ""
+
+#: View/Albums/view.ctp:58
+msgid "Related Artists"
+msgstr ""
+
+#: View/Albums/view.ctp:69
+#: View/Requests/view.ctp:19
+#: View/Tests/view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: View/Albums/view.ctp:89
+msgid "Edit Artist"
+msgstr ""
+
+#: View/Artists/add.ctp:4
+msgid "New artist"
+msgstr ""
+
+#: View/Artists/add.ctp:5
+msgid "Provide artist name and 200x200 picture and let the artist free."
+msgstr ""
+
+#: View/Artists/add.ctp:16
+#: View/Artists/edit.ctp:86
+msgid "Artist 200x200 Image"
+msgstr ""
+
+#: View/Artists/artist.ctp:24
+msgid "The Artist is not available for public yet (need to be approved)."
+msgstr ""
+
+#: View/Artists/artist.ctp:52
+msgid "add album to %s"
+msgstr ""
+
+#: View/Artists/artist_list_empty.ctp:12
+msgid "Sorry, but nothing matched %s."
+msgstr ""
+
+#: View/Artists/artist_list_empty.ctp:12
+msgid "Please try to send us your  request on %s ."
+msgstr ""
+
+#: View/Artists/artist_list_empty.ctp:12
+msgid "Here"
+msgstr ""
+
+#: View/Artists/welcome.ctp:37
+#: View/Elements/header.ctp:39
+#: View/Elements/Find/search_header.ctp:13
+#: View/Tests/find.ctp:21
+msgid "Search"
+msgstr ""
+
+#: View/Dashboard/index.ctp:5
+msgid "HK Dashboard"
+msgstr ""
+
+#: View/Dashboard/index.ctp:14
+msgid "This is control panel of the site."
+msgstr ""
+
+#: View/Dashboard/index.ctp:15
+msgid "Through this dashboard you can add,edit and delete all contents such as artists,albums and lyrics."
+msgstr ""
+
+#: View/Dashboard/index.ctp:16
+msgid "User's abilities depends on it's position,new user can just add lyrics and delete or edit thier owns."
+msgstr ""
+
+#: View/Elements/footer.ctp:7
+msgid "Random selection"
+msgstr ""
+
+#: View/Elements/header.ctp:18
+msgid "Home"
+msgstr ""
+
+#: View/Elements/header.ctp:19
+msgid "Requests"
+msgstr ""
+
+#: View/Elements/header.ctp:65
+msgid "Profile"
+msgstr ""
+
+#: View/Elements/header.ctp:68
+msgid "Settings"
+msgstr ""
+
+#: View/Elements/header.ctp:72
+msgid "Logout"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:18
+#: View/Elements/Dashboard/approvals.ctp:6
+#: View/Elements/Find/search_header.ctp:22
+#: View/Elements/Property/header.ctp:6
+#: View/Users/property_artist.ctp:9
+msgid "Artists"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:19
+#: View/Find/find_artist.ctp:6
+msgid "%s artists"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:39
+#: View/Find/find_album.ctp:7
+msgid "%s albums"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:44
+msgid "Add new album"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:58
+#: View/Find/find_lyric.ctp:7
+msgid "%s lyrics"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:62
+msgid "Add new lyric"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:66
+msgid "List my lyrics"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:79
+msgid "Add new user"
+msgstr ""
+
+#: View/Elements/sidebar_dashboard.ctp:83
+msgid "List all users"
+msgstr ""
+
+#: View/Elements/Artist/header.ctp:3
+msgid "Request an artist"
+msgstr ""
+
+#: View/Elements/Artist/header.ctp:7
+msgid "Add an artist\"></i> "
+msgstr ""
+
+#: View/Elements/Artist/header.ctp:12
+msgid "%s Results"
+msgstr ""
+
+#: View/Elements/Artist/header.ctp:12
+msgid "Empty"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:1
+msgid "Approvals"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:14
+#: View/Elements/FileTemplate/rtf_file.ctp:10
+#: View/Elements/FileTemplate/txt_file.ctp:5
+#: View/Elements/Request/request_item.ctp:11
+#: View/Elements/Request/request_item_panel.ctp:12
+#: View/Lyrics/add.ctp:149
+#: View/Lyrics/history.ctp:110
+#: View/Requests/index.ctp:10;14
+#: View/Users/profile.ctp:99;125
+msgid "Artist"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:18;43;68
+msgid "By "
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:27;53;77
+msgid "Error!"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:28;54;78
+msgid "accept %s"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:29;55;79
+msgid "remove %s"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:93
+#: View/Elements/Dashboard/messages.ctp:54
+msgid "Loading"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:103
+#: View/Elements/FileTemplate/htm_file.ctp:26
+#: View/Elements/FileTemplate/pdf_file.ctp:75
+#: View/Elements/FileTemplate/rtf_file.ctp:14
+#: View/Elements/FileTemplate/txt_file.ctp:8
+#: View/Lyrics/history.ctp:115
+msgid "Writer"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:104
+#: View/Elements/FileTemplate/htm_file.ctp:27
+#: View/Elements/FileTemplate/pdf_file.ctp:76
+#: View/Elements/FileTemplate/rtf_file.ctp:15
+#: View/Elements/FileTemplate/txt_file.ctp:9
+#: View/Lyrics/history.ctp:116
+msgid "Composer"
+msgstr ""
+
+#: View/Elements/Dashboard/approvals.ctp:105
+#: View/Elements/FileTemplate/htm_file.ctp:28
+#: View/Elements/FileTemplate/pdf_file.ctp:77
+#: View/Elements/FileTemplate/rtf_file.ctp:16
+#: View/Elements/FileTemplate/txt_file.ctp:10
+msgid "Echelon"
+msgstr ""
+
+#: View/Elements/Dashboard/messages.ctp:3
+msgid "Users notes"
+msgstr ""
+
+#: View/Elements/Dashboard/messages.ctp:60
+msgid "Notes - "
+msgstr ""
+
+#: View/Elements/Dashboard/messages.ctp:79
+msgid "Write your replay..."
+msgstr ""
+
+#: View/Elements/Dashboard/messages.ctp:93
+msgid "You can only send 255 long note."
+msgstr ""
+
+#: View/Elements/Dashboard/notifications.ctp:3
+msgid "Notifications"
+msgstr ""
+
+#: View/Elements/FileTemplate/htm_file.ctp:40
+#: View/Elements/FileTemplate/rtf_file.ctp:23
+#: View/Elements/FileTemplate/txt_file.ctp:23
+msgid "written by"
+msgstr ""
+
+#: View/Elements/FileTemplate/htm_file.ctp:40
+#: View/Elements/FileTemplate/txt_file.ctp:23
+msgid "on"
+msgstr ""
+
+#: View/Elements/FileTemplate/htm_file.ctp:41
+#: View/Elements/FileTemplate/rtf_file.ctp:24
+#: View/Elements/FileTemplate/txt_file.ctp:24
+msgid "last modified was at"
+msgstr ""
+
+#: View/Elements/FileTemplate/htm_file.ctp:42
+#: View/Elements/FileTemplate/rtf_file.ctp:25
+#: View/Elements/FileTemplate/txt_file.ctp:25
+msgid "the source of this is from"
+msgstr ""
+
+#: View/Elements/FileTemplate/htm_file.ctp:45
+#: View/Elements/FileTemplate/rtf_file.ctp:28
+#: View/Elements/FileTemplate/txt_file.ctp:28
+msgid "link"
+msgstr ""
+
+#: View/Elements/FileTemplate/pdf_file.ctp:95
+msgid "Source of this is from"
+msgstr ""
+
+#: View/Elements/FileTemplate/pdf_file.ctp:97
+msgid "Written by"
+msgstr ""
+
+#: View/Elements/FileTemplate/pdf_file.ctp:97
+msgid " on "
+msgstr ""
+
+#: View/Elements/FileTemplate/pdf_file.ctp:98
+msgid "Last modified was at"
+msgstr ""
+
+#: View/Elements/Find/search_header.ctp:20
+msgid "Search for %s"
+msgstr ""
+
+#: View/Elements/Find/search_item_album.ctp:10
+msgid "Lyrics (%s)"
+msgstr ""
+
+#: View/Elements/Lyric/entry-action.ctp:5
+msgid "Download"
+msgstr ""
+
+#: View/Elements/Lyric/entry-action.ctp:21
+msgid "This Lyric has beend updated "
+msgstr ""
+
+#: View/Elements/Lyric/entry-action.ctp:23
+msgid "edit history."
+msgstr ""
+
+#: View/Elements/Lyric/entry-action.ctp:22
+msgid "one time "
+msgid_plural "%s times "
+msgstr[0] ""
+msgstr[1] ""
+
+#: View/Elements/Lyric/entry-meta.ctp:21
+msgid "Posted on %s "
+msgstr ""
+
+#: View/Elements/Lyric/entry-meta.ctp:28
+msgid "By %s"
+msgstr ""
+
+#: View/Elements/Lyric/entry-meta.ctp:29
+msgid "Seen %s times"
+msgstr ""
+
+#: View/Elements/Profile/profile_entry.ctp:2
+msgid "First name"
+msgstr ""
+
+#: View/Elements/Profile/profile_entry.ctp:5
+msgid "Last name"
+msgstr ""
+
+#: View/Elements/Profile/profile_entry.ctp:25;55
+msgid "Is registerd since %s."
+msgstr ""
+
+#: View/Elements/Property/header.ctp:14
+msgid "artists"
+msgstr ""
+
+#: View/Elements/Property/header.ctp:15
+msgid "albums"
+msgstr ""
+
+#: View/Elements/Property/header.ctp:16
+msgid "lyrics"
+msgstr ""
+
+#: View/Elements/Request/request_item.ctp:5;14
+#: View/Elements/Request/request_item_panel.ctp:6;15
+#: View/Requests/index.ctp:24;28
+#: View/Users/property_lyric.ctp:9
+msgid "Lyric"
+msgstr ""
+
+#: View/Elements/Request/request_item.ctp:24
+msgid "%s request"
+msgstr ""
+
+#: View/Elements/Request/request_item_panel.ctp:31
+#: View/Requests/panel.ctp:11
+msgid "Visible"
+msgstr ""
+
+#: View/Elements/Request/request_item_panel.ctp:31
+msgid "Visible for public"
+msgstr ""
+
+#: View/Elements/Request/request_item_panel.ctp:35
+msgid "Unvisible"
+msgstr ""
+
+#: View/Elements/Request/request_item_panel.ctp:35
+msgid "Hidden from public"
+msgstr ""
+
+#: View/Elements/Request/request_item_panel.ctp:41
+msgid " %s request"
+msgstr ""
+
+#: View/Elements/Request/request_item_panel.ctp:43
+msgid "Delete this request"
+msgstr ""
+
+#: View/Find/find_album.ctp:16
+msgid "There is no matched albums to <strong>%s</strong>!"
+msgstr ""
+
+#: View/Find/find_artist.ctp:14
+#: View/Find/find_lyric.ctp:15
+msgid "There is no matched artists to <strong>%s</strong>!"
+msgstr ""
+
+#: View/Find/index.ctp:19
+msgid "View more %s lyrics"
+msgstr ""
+
+#: View/Find/index.ctp:34
+msgid "View more %s albums"
+msgstr ""
+
+#: View/Find/index.ctp:49
+msgid "View more %s artists"
+msgstr ""
+
+#: View/Find/index.ctp:58
+msgid "Nothing found"
+msgstr ""
+
+#: View/Find/index.ctp:59
+msgid "Nothing were found in database,please try another keyword."
+msgstr ""
+
+#: View/Find/index.ctp:63
+msgid "Please write your <i>keyword</i> for seaching."
+msgstr ""
+
+#: View/Helper/HKHelper.php:17
+msgid "%s has edited %s"
+msgstr ""
+
+#: View/Helper/HKHelper.php:18
+msgid "%s request to edit %s"
+msgstr ""
+
+#: View/Helper/HKHelper.php:20
+msgid "%s has deleted %s"
+msgstr ""
+
+#: View/Helper/HKHelper.php:21
+msgid "%s request to delete %s"
+msgstr ""
+
+#: View/Lyrics/add.ctp:36
+msgid "Please Select Artist and Album to complete."
+msgstr ""
+
+#: View/Lyrics/add.ctp:89
+msgid "Invalid artist."
+msgstr ""
+
+#: View/Lyrics/add.ctp:95
+msgid "There is no albums to show."
+msgstr ""
+
+#: View/Lyrics/add.ctp:110
+msgid "Error fetching array."
+msgstr ""
+
+#: View/Lyrics/add.ctp:121
+msgid "Error!\\n \\n Check internet connection!"
+msgstr ""
+
+#: View/Lyrics/add.ctp:140
+msgid "Please select an artist and ablum before add your lyric."
+msgstr ""
+
+#: View/Lyrics/add.ctp:166
+msgid "Select"
+msgstr ""
+
+#: View/Lyrics/add.ctp:176
+msgid "Change details"
+msgstr ""
+
+#: View/Lyrics/add.ctp:184
+#: View/Lyrics/add_album.ctp:27
+#: View/Lyrics/add_artist.ctp:36
+#: View/Lyrics/edit.ctp:34
+msgid " Title"
+msgstr ""
+
+#: View/Lyrics/add.ctp:189
+#: View/Lyrics/add_album.ctp:32
+#: View/Lyrics/add_artist.ctp:41
+#: View/Lyrics/edit.ctp:39
+msgid " Writer"
+msgstr ""
+
+#: View/Lyrics/add.ctp:194
+#: View/Lyrics/add_album.ctp:37
+#: View/Lyrics/add_artist.ctp:46
+#: View/Lyrics/edit.ctp:44
+msgid " Composer"
+msgstr ""
+
+#: View/Lyrics/add.ctp:198
+#: View/Lyrics/add_album.ctp:42
+#: View/Lyrics/add_artist.ctp:51
+#: View/Lyrics/edit.ctp:49
+msgid " # (Track-Number)"
+msgstr ""
+
+#: View/Lyrics/add.ctp:203
+#: View/Lyrics/add_album.ctp:47
+#: View/Lyrics/add_artist.ctp:56
+#: View/Lyrics/edit.ctp:54
+msgid " Text"
+msgstr ""
+
+#: View/Lyrics/add.ctp:208
+#: View/Lyrics/add_album.ctp:52
+#: View/Lyrics/add_artist.ctp:61
+#: View/Lyrics/edit.ctp:59
+msgid " Source"
+msgstr ""
+
+#: View/Lyrics/add_album.ctp:11
+msgid "Add a Lyric"
+msgstr ""
+
+#: View/Lyrics/add_artist.ctp:29
+msgid "Your album is not existed?"
+msgstr ""
+
+#: View/Lyrics/add_no_album.ctp:4
+msgid "No albums added for <strong>"
+msgstr ""
+
+#: View/Lyrics/add_no_album.ctp:9
+msgid "Change Artist"
+msgstr ""
+
+#: View/Lyrics/history.ctp:21
+msgid "There is no available edits for this lyric."
+msgstr ""
+
+#: View/Lyrics/history.ctp:29
+msgid "This lyric has been edited for %s times"
+msgstr ""
+
+#: View/Lyrics/history.ctp:30
+msgid "Last edit was at : %s"
+msgstr ""
+
+#: View/Lyrics/history.ctp:31
+msgid "You can follow the changes through down panels."
+msgstr ""
+
+#: View/Lyrics/history.ctp:35
+msgid "accepted"
+msgstr ""
+
+#: View/Lyrics/history.ctp:36
+msgid "pending"
+msgstr ""
+
+#: View/Lyrics/history.ctp:37
+msgid "declined"
+msgstr ""
+
+#: View/Lyrics/history.ctp:86
+msgid "accept"
+msgstr ""
+
+#: View/Lyrics/history.ctp:89
+msgid "decline"
+msgstr ""
+
+#: View/Lyrics/history.ctp:99
+msgid "Current"
+msgstr ""
+
+#: View/Lyrics/history.ctp:117
+msgid "echelon"
+msgstr ""
+
+#: View/Lyrics/history.ctp:122
+msgid "Source"
+msgstr ""
+
+#: View/Lyrics/index.ctp:28
+msgid "The Lyric is not available for public yet (need to be approved)."
+msgstr ""
+
+#: View/Lyrics/index.ctp:64
+msgid "Writer : %s"
+msgstr ""
+
+#: View/Lyrics/index.ctp:65
+msgid "Composer : %s"
+msgstr ""
+
+#: View/Lyrics/index.ctp:66
+msgid "# : %s"
+msgstr ""
+
+#: View/Lyrics/index.ctp:81
+msgid "The source of this is from : %s"
+msgstr ""
+
+#: View/Lyrics/index.ctp:107
+msgid "Editors : %s"
+msgstr ""
+
+#: View/Lyrics/lyricslist.ctp:17
+msgid "These are lyrics that you had added."
+msgstr ""
+
+#: View/Lyrics/note.ctp:4
+msgid "Inform a mistake"
+msgstr ""
+
+#: View/Lyrics/note.ctp:8
+msgid "Your correction note will be sent to %s to be checked."
+msgstr ""
+
+#: View/Lyrics/note.ctp:9
+msgid "You can be a part of HK comunity and correct it with your name"
+msgstr ""
+
+#: View/Lyrics/note.ctp:19
+#: View/Requests/album.ctp:13
+#: View/Requests/artist.ctp:12
+#: View/Requests/lyric.ctp:13
+msgid "Your Name"
+msgstr ""
+
+#: View/Lyrics/note.ctp:22
+#: View/Requests/album.ctp:16
+#: View/Requests/artist.ctp:15
+#: View/Requests/lyric.ctp:16
+msgid "Your Email"
+msgstr ""
+
+#: View/Lyrics/note.ctp:27
+#: View/Requests/album.ctp:21
+#: View/Requests/artist.ctp:20
+#: View/Requests/lyric.ctp:21
+msgid "Your request message."
+msgstr ""
+
+#: View/Lyrics/note.ctp:36
+msgid "Inform"
+msgstr ""
+
+#: View/Posts/add.ctp:4
+msgid "Add Post"
+msgstr ""
+
+#: View/Posts/add.ctp:10
+#: View/Posts/edit.ctp:11
+#: View/Requests/add.ctp:14
+#: View/Requests/edit.ctp:15
+#: View/Tests/add.ctp:10
+#: View/Tests/edit.ctp:11
+msgid "Submit"
+msgstr ""
+
+#: View/Posts/add.ctp:16
+#: View/Posts/edit.ctp:18
+#: View/Posts/view.ctp:31
+msgid "List Posts"
+msgstr ""
+
+#: View/Posts/edit.ctp:4
+#: View/Posts/view.ctp:29
+msgid "Edit Post"
+msgstr ""
+
+#: View/Posts/index.ctp:2
+msgid "Posts"
+msgstr ""
+
+#: View/Posts/index.ctp:46
+#: View/Posts/view.ctp:32
+msgid "New Post"
+msgstr ""
+
+#: View/Posts/view.ctp:2
+msgid "Post"
+msgstr ""
+
+#: View/Posts/view.ctp:14
+msgid "Body"
+msgstr ""
+
+#: View/Posts/view.ctp:19
+msgid "Created"
+msgstr ""
+
+#: View/Posts/view.ctp:30
+msgid "Delete Post"
+msgstr ""
+
+#: View/Requests/add.ctp:4
+msgid "Add Request"
+msgstr ""
+
+#: View/Requests/add.ctp:20
+#: View/Requests/edit.ctp:22
+#: View/Requests/view.ctp:46
+msgid "List Requests"
+msgstr ""
+
+#: View/Requests/album.ctp:4
+msgid "Request an album from HK:"
+msgstr ""
+
+#: View/Requests/album.ctp:5
+msgid "Through request panel you will be able to request what you need,or what we miss.<br/>please fill what you need."
+msgstr ""
+
+#: View/Requests/album.ctp:27
+#: View/Requests/artist.ctp:26
+#: View/Requests/lyric.ctp:27
+msgid "Do you want to publish your request on public?"
+msgstr ""
+
+#: View/Requests/album.ctp:30
+#: View/Requests/artist.ctp:29
+#: View/Requests/lyric.ctp:30
+msgid "Yes I want to show it to the public review."
+msgstr ""
+
+#: View/Requests/album.ctp:31
+#: View/Requests/artist.ctp:30
+#: View/Requests/lyric.ctp:31
+msgid "No,keep it hide from public.only members will see it."
+msgstr ""
+
+#: View/Requests/album.ctp:43
+#: View/Requests/artist.ctp:42
+#: View/Requests/lyric.ctp:43
+msgid "Your email address will not be published,you will recive email when your request is found."
+msgstr ""
+
+#: View/Requests/artist.ctp:4
+msgid "Request an artist from HK:"
+msgstr ""
+
+#: View/Requests/artist.ctp:5
+msgid "Through request panel you will be able to request what you need,or what we miss.<br/>please fill what you need:"
+msgstr ""
+
+#: View/Requests/edit.ctp:4
+#: View/Requests/view.ctp:44
+msgid "Edit Request"
+msgstr ""
+
+#: View/Requests/index.ctp:4
+msgid "Request From HK:"
+msgstr ""
+
+#: View/Requests/index.ctp:5
+msgid "Threw request panel you will be able to request what you need,or what we miss.<br/>please select what you need:"
+msgstr ""
+
+#: View/Requests/index.ctp:32
+msgid "Recent requests:"
+msgstr ""
+
+#: View/Requests/index.ctp:42
+msgid "More Requests...."
+msgstr ""
+
+#: View/Requests/lyric.ctp:4
+msgid "Request a lyric from HK:"
+msgstr ""
+
+#: View/Requests/lyric.ctp:5
+msgid "Through request panel you will be able to request what you need,or what we miss.<br/>please select what you need:"
+msgstr ""
+
+#: View/Requests/panel.ctp:4
+msgid "Requests panel"
+msgstr ""
+
+#: View/Requests/panel.ctp:8
+msgid "Visibility of request means that the request is available for public review."
+msgstr ""
+
+#: View/Requests/panel.ctp:10
+msgid "Unvisible request"
+msgstr ""
+
+#: View/Requests/panel.ctp:22
+msgid "Sort List by:"
+msgstr ""
+
+#: View/Requests/view.ctp:9
+msgid "Type"
+msgstr ""
+
+#: View/Requests/view.ctp:29
+msgid "Data"
+msgstr ""
+
+#: View/Requests/view.ctp:34
+msgid "Public"
+msgstr ""
+
+#: View/Requests/view.ctp:45
+msgid "Delete Request"
+msgstr ""
+
+#: View/Requests/view.ctp:47
+msgid "New Request"
+msgstr ""
+
+#: View/Tests/add.ctp:4
+msgid "Add Test"
+msgstr ""
+
+#: View/Tests/add.ctp:16
+#: View/Tests/edit.ctp:18
+#: View/Tests/view.ctp:26
+msgid "List Tests"
+msgstr ""
+
+#: View/Tests/edit.ctp:4
+#: View/Tests/view.ctp:24
+msgid "Edit Test"
+msgstr ""
+
+#: View/Tests/view.ctp:2
+msgid "Test"
+msgstr ""
+
+#: View/Tests/view.ctp:14
+msgid "Photo"
+msgstr ""
+
+#: View/Tests/view.ctp:25
+msgid "Delete Test"
+msgstr ""
+
+#: View/Tests/view.ctp:27
+msgid "New Test"
+msgstr ""
+
+#: View/Users/add.ctp:4
+#: View/Users/index.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: View/Users/add.ctp:14
+#: View/Users/completesignup.ctp:201
+#: View/Users/login.ctp:15
+#: View/Users/signup.ctp:203
+msgid "Username"
+msgstr ""
+
+#: View/Users/add.ctp:19
+msgid "group_id"
+msgstr ""
+
+#: View/Users/add.ctp:24
+msgid "password"
+msgstr ""
+
+#: View/Users/add.ctp:29
+msgid "email"
+msgstr ""
+
+#: View/Users/add.ctp:34
+msgid "name"
+msgstr ""
+
+#: View/Users/add.ctp:39
+msgid "available"
+msgstr ""
+
+#: View/Users/completesignup.ctp:205
+#: View/Users/signup.ctp:207
+msgid "Username can contain any letters or numbers, without spaces.Between (4-24) letters."
+msgstr ""
+
+#: View/Users/completesignup.ctp:210
+#: View/Users/signup.ctp:212
+msgid "Email"
+msgstr ""
+
+#: View/Users/completesignup.ctp:213
+#: View/Users/signup.ctp:215
+msgid "Please provide your a valid Email."
+msgstr ""
+
+#: View/Users/completesignup.ctp:218
+#: View/Users/login.ctp:27
+#: View/Users/signup.ctp:220
+msgid "Password"
+msgstr ""
+
+#: View/Users/completesignup.ctp:221
+#: View/Users/signup.ctp:223
+msgid "Password should be (6-24) characters."
+msgstr ""
+
+#: View/Users/completesignup.ctp:226
+#: View/Users/signup.ctp:228
+msgid "Password (Confirm)"
+msgstr ""
+
+#: View/Users/completesignup.ctp:229
+#: View/Users/signup.ctp:231
+msgid "Please confirm password"
+msgstr ""
+
+#: View/Users/completesignup.ctp:230
+#: View/Users/signup.ctp:232
+msgid "Password confirmation is done."
+msgstr ""
+
+#: View/Users/login.ctp:8
+msgid "Forgot password?"
+msgstr ""
+
+#: View/Users/login.ctp:11
+msgid "You can login with your Email adress or username,you can also login with your facebook account."
+msgstr ""
+
+#: View/Users/login.ctp:34
+msgid "Remember me"
+msgstr ""
+
+#: View/Users/login.ctp:40
+msgid "Login with Facebook"
+msgstr ""
+
+#: View/Users/login.ctp:48
+msgid "Don't have an account!"
+msgstr ""
+
+#: View/Users/login.ctp:48
+msgid "Sign Up Here"
+msgstr ""
+
+#: View/Users/profile.ctp:5;16
+msgid "Edit My Profile"
+msgstr ""
+
+#: View/Users/profile.ctp:37
+msgid "Entry review:"
+msgstr ""
+
+#: View/Users/profile.ctp:41
+msgid "No artists yet."
+msgstr ""
+
+#: View/Users/profile.ctp:44
+msgid "Latest Artists:"
+msgstr ""
+
+#: View/Users/profile.ctp:55
+msgid "Show all %s's artists "
+msgstr ""
+
+#: View/Users/profile.ctp:61
+msgid "No albums yet."
+msgstr ""
+
+#: View/Users/profile.ctp:64
+msgid "Latest Albums:"
+msgstr ""
+
+#: View/Users/profile.ctp:76
+msgid "Show all %s's albums »"
+msgstr ""
+
+#: View/Users/profile.ctp:86;112
+msgid "No lyrics yet."
+msgstr ""
+
+#: View/Users/profile.ctp:89;115
+msgid "Latest Lyrics:"
+msgstr ""
+
+#: View/Users/profile.ctp:136
+msgid "Show all %s's lyrics »"
+msgstr ""
+
+#: View/Users/property_album.ctp:11
+msgid "%s means if the album is availabe for public view."
+msgstr ""
+
+#: View/Users/property_artist.ctp:11
+msgid "%s means if the artist is availabe for public view."
+msgstr ""
+
+#: View/Users/property_lyric.ctp:11
+msgid "%s means if the lyric is availabe for public view."
+msgstr ""
+
+#: View/Users/settings.ctp:55
+msgid "%s Profile"
+msgstr ""
+
+#: View/Users/settings.ctp:70;80
+msgid "User Name"
+msgstr ""
+
+#: View/Users/settings.ctp:84
+msgid "User 200x200 Image"
+msgstr ""
+
+#: View/Users/signup.ctp:198
+msgid "Signing in is easy,you just have to provide a username and your Email and start imediatly to add your own lyric."
+msgstr ""
+
+#: Model/Album.php:validation for field unique
+#: Model/Artist.php:validation for field unique
+#: Model/Lyric.php:validation for field unique
+#: Model/User.php:validation for field unique
+msgid "notUnique[9]"
+msgstr ""
+
+#: Model/Album.php:validation for field unique
+#: Model/Artist.php:validation for field unique
+#: Model/Lyric.php:validation for field unique
+#: Model/User.php:validation for field unique
+msgid "Unique ID Issue! [NAlph#]"
+msgstr ""
+
+#: Model/Album.php:validation for field unique
+#: Model/Artist.php:validation for field unique
+#: Model/Lyric.php:validation for field unique
+#: Model/User.php:validation for field unique
+msgid "Unique ID Issue!"
+msgstr ""
+
+#: Model/Album.php:validation for field title
+msgid "Album title is already exists."
+msgstr ""
+
+#: Model/Album.php:validation for field title
+#: Model/Artist.php:validation for field name
+#: Model/Lyric.php:validation for field title;validation for field writer;validation for field composer
+msgid "Only Kurdish-Latin alphabet is allowrd."
+msgstr ""
+
+#: Model/Album.php:validation for field title
+msgid "You can't leave album title blank."
+msgstr ""
+
+#: Model/Album.php:validation for field title
+#: Model/Artist.php:validation for field name
+msgid "At maximum 32 letters"
+msgstr ""
+
+#: Model/Album.php:validation for field title
+#: Model/Artist.php:validation for field name
+#: Model/Lyric.php:validation for field title;validation for field writer;validation for field composer
+msgid "At least 2 letters."
+msgstr ""
+
+#: Model/Album.php:validation for field artist_id
+#: Model/Lyric.php:validation for field artist_id
+msgid "Artist id error[E#]"
+msgstr ""
+
+#: Model/Album.php:validation for field artist_id
+#: Model/Lyric.php:validation for field artist_id
+msgid "Artist id error[L#Ma]"
+msgstr ""
+
+#: Model/Album.php:validation for field artist_id
+#: Model/Lyric.php:validation for field artist_id
+msgid "Artist id error[L#Mi]"
+msgstr ""
+
+#: Model/Album.php:validation for field year
+msgid "Year must be 4 numbers."
+msgstr ""
+
+#: Model/Album.php:validation for field image
+#: Model/Artist.php:validation for field image
+#: Model/User.php:validation for field image
+msgid "File is not a jpg, gif or png."
+msgstr ""
+
+#: Model/Album.php:validation for field image
+#: Model/Artist.php:validation for field image
+#: Model/User.php:validation for field image
+msgid "File does not have a jpg, gif or png extension."
+msgstr ""
+
+#: Model/Album.php:validation for field image
+#: Model/Artist.php:validation for field image
+#: Model/User.php:validation for field image
+msgid "File was not successfully uploaded."
+msgstr ""
+
+#: Model/Album.php:validation for field image
+#: Model/Artist.php:validation for field image
+msgid "File is below the minimum height.(200H)"
+msgstr ""
+
+#: Model/Album.php:validation for field image
+#: Model/Artist.php:validation for field image
+msgid "File is above the maximum height.(200H)"
+msgstr ""
+
+#: Model/Album.php:validation for field image
+#: Model/Artist.php:validation for field image
+msgid "File is below the minimum width.(200W)"
+msgstr ""
+
+#: Model/Album.php:validation for field image
+#: Model/Artist.php:validation for field image
+msgid "File is above the maximum width(200W)"
+msgstr ""
+
+#: Model/Artist.php:validation for field name
+msgid "Artist name is already exists."
+msgstr ""
+
+#: Model/Artist.php:validation for field name
+msgid "You can't leave artist name blank."
+msgstr ""
+
+#: Model/Lyric.php:validation for field artist_id;validation for field album_id
+msgid "ID Issue! [Nn#]"
+msgstr ""
+
+#: Model/Lyric.php:validation for field album_id
+msgid "Album id error[E#]"
+msgstr ""
+
+#: Model/Lyric.php:validation for field album_id
+msgid "Album doen't belong to Artist."
+msgstr ""
+
+#: Model/Lyric.php:validation for field album_id
+msgid "Album id error[L#Ma]"
+msgstr ""
+
+#: Model/Lyric.php:validation for field album_id
+msgid "Album id error[L#Mi]"
+msgstr ""
+
+#: Model/Lyric.php:validation for field title;validation for field echelon;validation for field text
+msgid "You can't leave it blank."
+msgstr ""
+
+#: Model/Lyric.php:validation for field title
+msgid "Lyric title is already exists."
+msgstr ""
+
+#: Model/Lyric.php:validation for field title;validation for field writer;validation for field composer
+msgid "At maximum 64 letters"
+msgstr ""
+
+#: Model/Lyric.php:validation for field echelon
+msgid "Lyric # should be numeric."
+msgstr ""
+
+#: Model/Message.php:validation for field message;validation for field marks
+msgid "notEmpty"
+msgstr ""
+
+#: Model/Message.php:validation for field message;validation for field marks
+msgid "maxLength"
+msgstr ""
+
+#: Model/Message.php:validation for field message;validation for field marks
+msgid "minLength"
+msgstr ""
+
+#: Model/Message.php:validation for field user_2
+msgid "numeric"
+msgstr ""
+
+#: Model/Request.php:validation for field name;validation for field data;validation for field public
+msgid "You can not leave it empty."
+msgstr ""
+
+#: Model/Request.php:validation for field name
+msgid "alpha numeric allowed."
+msgstr ""
+
+#: Model/Request.php:validation for field name
+msgid "Maximum letters (64)"
+msgstr ""
+
+#: Model/Request.php:validation for field email
+#: Model/User.php:validation for field email
+msgid "You can't leave Email blank."
+msgstr ""
+
+#: Model/Request.php:validation for field email
+#: Model/User.php:validation for field email
+msgid "maximum letters been reached"
+msgstr ""
+
+#: Model/Request.php:validation for field data
+msgid "Maximum letters (256)"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Start with letter and undercore (_) only allowed"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Username is already in use."
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "You can't leave username blank."
+msgstr ""
+
+#: Model/User.php:validation for field username;validation for field password;validation for field name
+msgid "At maximum 24 letters"
+msgstr ""
+
+#: Model/User.php:validation for field username;validation for field email;validation for field name
+msgid "At least 4 letters."
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "Email adress is already in use."
+msgstr ""
+
+#: Model/User.php:validation for field password
+msgid "You can't leave Password blank."
+msgstr ""
+
+#: Model/User.php:validation for field password
+msgid "At least 6 letters."
+msgstr ""
+
+#: Model/User.php:validation for field image
+msgid "File is below the minimum height.(150H)"
+msgstr ""
+
+#: Model/User.php:validation for field image
+msgid "File is above the maximum height.(150H)"
+msgstr ""
+
+#: Model/User.php:validation for field image
+msgid "File is below the minimum width.(150W)"
+msgstr ""
+
+#: Model/User.php:validation for field image
+msgid "File is above the maximum width(150W)"
+msgstr ""
+

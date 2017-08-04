@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ku_KU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send notes"
+msgstr "Bîrnivîsan bişîne"
+
+msgid "Send us your notes."
+msgstr "Bîrnivîsên xwe bo me bişîne."
+
+msgid "Only the message is required, you can provide your name and email for contact."
+msgstr "Her bi tenê peyam pêwîst e, lê ji kerema xwe nav û e-peyama xwe bihêle bo peywendiyê."
+
+msgid "Your note has been sent successful."
+msgstr "Peyama te bi serkeftî hate şandin, spas bo dema te."

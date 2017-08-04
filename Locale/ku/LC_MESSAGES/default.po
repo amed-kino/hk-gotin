@@ -1,0 +1,2452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-06-10 18:01+0000\n"
+"PO-Revision-Date: 2016-06-12 16:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ku_KU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Controller/AjaxController.php:29
+msgid "Access Error!"
+msgstr "Daxwaz ne berdest e!"
+
+#: Controller/AjaxController.php:243;257
+msgid "The file cannot be saved."
+msgstr "Nikare file ezber bike."
+
+#: Controller/AjaxController.php:249
+msgid "The file is not existed."
+msgstr "File tune ye."
+
+#: Controller/AjaxController.php:622;626
+msgid "You have to fill text."
+msgstr "Pêwîste nivîs bê dagirtin."
+
+#: Controller/AlbumsController.php:110
+msgid "Album not found."
+msgstr "Berhem nehate dîtin."
+
+#: Controller/AlbumsController.php:165;172;191;318;537;609
+#: Controller/ArtistsController.php:228;247;555;621
+#: Controller/LyricsController.php:603;1204
+#: Controller/LyricsController~.php:590;1040
+#: Controller/UsersController.php:320;1031
+msgid "Not found"
+msgstr "Nehate dîtin"
+
+#: Controller/AlbumsController.php:234 Controller/ArtistsController.php:290
+#: Controller/UsersController.php:785
+msgid "Couldn't copy the photo."
+msgstr "Wênê neçû."
+
+#: Controller/AlbumsController.php:238
+msgid "The photo for album %s has been saved successfully."
+msgstr "Wêna berhema %s bi serkeftî tomar bû."
+
+#: Controller/AlbumsController.php:241;373
+#: Controller/ArtistsController.php:297;521 Controller/UsersController.php:792
+msgid "Save status"
+msgstr "Barûdoxa tomarkirinê"
+
+#: Controller/AlbumsController.php:263
+msgid "The photo for album %s has been rest for default."
+msgstr "Wêna berhema %s vegeriya wekî berê."
+
+#: Controller/AlbumsController.php:266;634
+#: Controller/ArtistsController.php:322;646
+#: Controller/LyricsController.php:1232 Controller/LyricsController~.php:1068
+#: Controller/RequestsController.php:72;82 Controller/UsersController.php:817
+msgid "Delete status"
+msgstr "Barûdoxa jêbirinê"
+
+#: Controller/AlbumsController.php:312;392;405 View/Artists/index.ctp:29
+#: View/Lyrics/add_artist.ctp:51 View/Lyrics/add_no_album.ctp:34
+msgid "Add Album"
+msgstr "Danîna berhemekê"
+
+#: Controller/AlbumsController.php:323;344 Controller/LyricsController.php:612
+#: Controller/LyricsController~.php:599
+msgid "Artist not found"
+msgstr "Hunermend nehat dîtin"
+
+#: Controller/AlbumsController.php:370
+msgid "The album %s has been saved to %s."
+msgstr "Berhema %s bi serkeftî tevî %s bû."
+
+#: Controller/AlbumsController.php:382;588
+msgid "The album could not be saved. Please, try again."
+msgstr "Berhem nehate tomarkirin. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/AlbumsController.php:419 Controller/ArtistsController.php:380
+#: Controller/UsersController.php:602
+msgid "%s photo"
+msgstr "Wêneya %s"
+
+#: Controller/AlbumsController.php:435 Controller/ArtistsController.php:396
+#: Controller/UsersController.php:618
+msgid "The photo is too small."
+msgstr "Wêne pir biçûk e."
+
+#: Controller/AlbumsController.php:435 Controller/ArtistsController.php:396
+#: Controller/UsersController.php:618
+msgid "You must upload over 200 pixel photo height and width."
+msgstr "Pêwîste wêne ji 200x200 mestir be."
+
+#: Controller/AlbumsController.php:492
+msgid "You have to select square photo for album."
+msgstr "Pêwîste wênê çargoşe bo berheman hilbijêrî."
+
+#: Controller/AlbumsController.php:502
+msgid "You have to select a file photo for album."
+msgstr "Pêwîste wênê hilbijêrî bo berhemê."
+
+#: Controller/AlbumsController.php:535 Controller/ArtistsController.php:554
+msgid "Empty artist!"
+msgstr "Hunermend vala ye!"
+
+#: Controller/AlbumsController.php:536;613
+msgid "Invalid album"
+msgstr "Berhem ne durist e"
+
+#: Controller/AlbumsController.php:575
+msgid "The album %s for artist %s has been updated succefully."
+msgstr "Berhema %s ya hunermend %s hate nûjenkirin."
+
+#: Controller/AlbumsController.php:578 Controller/ArtistsController.php:592
+#: Controller/UsersController.php:569
+msgid "Update status"
+msgstr "Barûdoxa guhertinê"
+
+#: Controller/AlbumsController.php:631
+msgid "The album %s for artist %s has been deleted."
+msgstr "Berhema %s ya %s hate jêbirin."
+
+#: Controller/AlbumsController.php:643
+msgid "The album could not be deleted. Please, try again."
+msgstr "Berhem nehatê jêbirin. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/ArtistsController.php:79
+msgid "Welcome to Hunera Kurdi"
+msgstr "Bi xêr hatin Hunera Kurdî"
+
+#: Controller/ArtistsController.php:121;144
+msgid "Artist not found!"
+msgstr "Hunermend nehate dîtin!"
+
+#: Controller/ArtistsController.php:179;556;625
+msgid "Invalid artist"
+msgstr "Hunermend şaş e"
+
+#: Controller/ArtistsController.php:294
+msgid "The photo for artist %s has been saved successfully."
+msgstr "Wêna hunermend %s bi serkeftî tomar bû."
+
+#: Controller/ArtistsController.php:319
+msgid "The photo for artist %s has been rest for default."
+msgstr "Wêna hunermend %s vegeriya wekî berê."
+
+#: Controller/ArtistsController.php:367
+msgid "Add Artist"
+msgstr "Danîna hunermendekî"
+
+#: Controller/ArtistsController.php:453 Controller/UsersController.php:675
+msgid "You have to select square photo for artist."
+msgstr "Pêwîste wênê çargoşe bo hunermendan hilbijêrî."
+
+#: Controller/ArtistsController.php:463 Controller/UsersController.php:685
+msgid "You have to select a file photo for artist."
+msgstr "Pêwîste wênê hilbijêrî bo hunermend."
+
+#: Controller/ArtistsController.php:518
+msgid "The artist %s has been saved."
+msgstr "Hunermend %s hate ezberkirin."
+
+#: Controller/ArtistsController.php:537;608
+msgid "The artist could not be saved. Please, try again."
+msgstr "Hunermend nehate ezberkirin. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/ArtistsController.php:565 Controller/LyricsController.php:836
+#: View/Albums/edit.ctp:20 View/Artists/edit.ctp:16
+#: View/Elements/lyric/entry-action.ctp:8 View/Elements/~/entry-action.ctp:10
+msgid "Edit %s"
+msgstr "Sererastkirina %s"
+
+#: Controller/ArtistsController.php:588
+msgid "The artist %s has been updated."
+msgstr "Hunermend %s hate nûjenkirin"
+
+#: Controller/ArtistsController.php:643
+msgid "The artist %s has been deleted."
+msgstr "Hunermend %s hate jêbirin."
+
+#: Controller/ArtistsController.php:654
+msgid "The artist could not be deleted. Please, try again."
+msgstr "Nikare hunermend  jê bibe. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/DashboardController.php:76 View/Dashboard/index.ctp:6
+#: View/Dashboard/messages.ctp:3 View/Elements/Users/menu_user.ctp:3
+msgid "Dashboard"
+msgstr "Kontrol"
+
+#: Controller/DashboardController.php:115 View/Dashboard/messages.ctp:4;14
+#: View/Elements/Dashboard/public_messages.ctp:6
+msgid "Public messages"
+msgstr "Bîrnivîsên xelkê"
+
+#: Controller/DownloadController.php:44;46;57
+#: Controller/LyricsController.php:183;275;278;298;325
+#: Controller/LyricsController~.php:170;262;265;285;312
+msgid "Invalid lyric."
+msgstr "Stran ne berdest e."
+
+#: Controller/DownloadController.php:53
+msgid "Invalid type."
+msgstr "Cure şaş e."
+
+#: Controller/FindController.php:31;230
+msgid "Try to add more specified key."
+msgstr "Nîşanên bêhtir hewl bide."
+
+#: Controller/FindController.php:145
+msgid "Artists Search"
+msgstr "Lêgerîna hunermendan"
+
+#: Controller/FindController.php:168
+msgid "Albums Search"
+msgstr "Lêgerîna berheman"
+
+#: Controller/FindController.php:189
+msgid "Lyrics Search"
+msgstr "Lêgerîna stranan"
+
+#: Controller/FindController.php:229;240 View/Find/find.ctp:99
+msgid "Specify keyword"
+msgstr "Tiştekî binvîse"
+
+#: Controller/JsController.php:77 Controller/LyricsController.php:388;389
+#: Controller/LyricsController~.php:375;376
+msgid "Invalid limit."
+msgstr "Sînor şaş e."
+
+#: Controller/LyricsController.php:304 Controller/LyricsController~.php:291
+msgid "%s set to its new copy."
+msgstr "%s tomar bû li gor nivîsên nû."
+
+#: Controller/LyricsController.php:306;315;333;342;786;1012;1023;1038;1068;1105;1142
+#: Controller/LyricsController~.php:293;302;320;329;857;869;886;920;962;995
+msgid "Edit status"
+msgstr "Barûdoxa Sererastkirinê"
+
+#: Controller/LyricsController.php:313 Controller/LyricsController~.php:300
+msgid "%s could not be set to new version."
+msgstr "%s tomar nebû li gor guhertoya nû."
+
+#: Controller/LyricsController.php:331 Controller/LyricsController~.php:318
+msgid "%s set to its previous copy."
+msgstr "%s tomar bû li gor nivîsên berê."
+
+#: Controller/LyricsController.php:340 Controller/LyricsController~.php:327
+msgid "%s could not be set to previous version."
+msgstr "%s tomar nebû li gor guhertoya berê."
+
+#: Controller/LyricsController.php:351 Controller/LyricsController~.php:338
+#: View/Elements/lyric/entry-edits.ctp:8 View/Lyrics/history.ctp:7;18
+msgid "Edit history"
+msgstr "Nivîsên berê"
+
+#: Controller/LyricsController.php:381 Controller/LyricsController~.php:368
+#: View/Lyrics/lyricslist.ctp:11
+msgid "My Lyrics"
+msgstr "Stranên min"
+
+#: Controller/LyricsController.php:536;1160
+#: Controller/LyricsController~.php:523;754
+msgid "Empty Lyric!"
+msgstr "Stran vala ye!"
+
+#: Controller/LyricsController.php:537;581;1161;1208
+#: Controller/LyricsController~.php:524;568;755;1044
+msgid "Invalid lyric"
+msgstr "Stran ne berdest e."
+
+#: Controller/LyricsController.php:561 Controller/LyricsController~.php:548
+msgid "Your inform has been sent successfully. Thank you."
+msgstr "Agahdariya te hate şandin, Spas."
+
+#: Controller/LyricsController.php:564 Controller/LyricsController~.php:551
+msgid "Inform status"
+msgstr "Barûdoxa agahdanê"
+
+#: Controller/LyricsController.php:573 Controller/LyricsController~.php:560
+msgid "The information could not be saved. Please, try again."
+msgstr "Agahî nehat ezberkirin. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/LyricsController.php:577 Controller/LyricsController~.php:564
+#: View/Lyrics/note.ctp:35
+msgid "Send a note"
+msgstr "Bîrnivîskekê bişîn"
+
+#: Controller/LyricsController.php:635 Controller/LyricsController~.php:622
+msgid "Album not found"
+msgstr "Berhem nehate dîtin."
+
+#: Controller/LyricsController.php:704 Controller/LyricsController~.php:691
+msgid "Your lyric %s has been added to %s successfully."
+msgstr "Strana %s bi serkeftî tevî %s bû."
+
+#: Controller/LyricsController.php:716;1111;1146
+#: Controller/LyricsController~.php:703;924;999
+msgid "The lyric could not be saved. Please, try again."
+msgstr "Stran nehat ezberkirin. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/LyricsController.php:726;731;740;758
+#: Controller/LyricsController~.php:713;718;727;745
+#: View/Albums/add_photo.ctp:32 View/Albums/add_photo_crop.ctp:33
+#: View/Albums/add_photo_thumb_view.ctp:29 View/Albums/edit.ctp:26
+#: View/Albums/index.ctp:32 View/Artists/add_photo.ctp:27
+#: View/Artists/add_photo_crop.ctp:29 View/Artists/add_photo_thumb_view.ctp:26
+#: View/Artists/edit.ctp:23 View/Artists/index.ctp:30
+#: View/Lyrics/add_album.ctp:6 View/Lyrics/add_artist.ctp:12
+msgid "Add lyric"
+msgstr "Danîna stranekê"
+
+#: Controller/LyricsController.php:784;1140
+#: Controller/LyricsController~.php:918;993
+msgid "Lyric has been updated."
+msgstr "Stran hat nûjenkirin."
+
+#: Controller/LyricsController.php:872 Controller/LyricsController~.php:795
+msgid "There is no edit actions found. Please try again."
+msgstr "Ti bûyerên sererastkirinê nehatine dîtin, bê zehmet dîsa lê vegerin."
+
+#: Controller/LyricsController.php:916 Controller/LyricsController~.php:847
+msgid "More details"
+msgstr "Kitûmatne bêhtirr"
+
+#: Controller/LyricsController.php:1010 Controller/LyricsController~.php:855
+msgid "This change request is the orginal copy. %s"
+msgstr "Ev daxwaza guhertinê nivîsa pêşî ye. %s"
+
+#: Controller/LyricsController.php:1021 Controller/LyricsController~.php:867
+msgid "This change request is to the current copy. %s"
+msgstr "Ev daxwaza guhertinê nivîsa nuha ye. %s"
+
+#: Controller/LyricsController.php:1036;1103
+#: Controller/LyricsController~.php:884
+msgid "This change request is already been sent before. %s"
+msgstr "Ev daxwaz bo guhertinê berê hatiye şandin e. %s"
+
+#: Controller/LyricsController.php:1066 Controller/LyricsController~.php:960
+msgid ""
+"Lyric chang request have been sent to the owner of this lyric,you have to "
+"wait for approval."
+msgstr ""
+"Daxwaza guhertina peyvan hate şandin ji xwediyê gotinan re, li hêviya "
+"pejirînê be."
+
+#: Controller/LyricsController.php:1073 Controller/LyricsController~.php:966
+msgid "The lyric request could not be sent. Please, try again."
+msgstr "Daxwaza guhertina peyvan nehate şandin. bê zehmet, dîsa lê vegerin."
+
+#: Controller/LyricsController.php:1229 Controller/LyricsController~.php:1065
+msgid "The lyric %s has been deleted."
+msgstr "Strana %s hate jêbirin."
+
+#: Controller/LyricsController.php:1239 Controller/LyricsController~.php:1075
+msgid "The lyric could not be deleted. Please, try again."
+msgstr "Stran nehat jêbirin. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/LyricsController~.php:771
+msgid "Edit "
+msgstr "Sererastkirin"
+
+#: Controller/PagesController.php:16 View/Pages/about.ctp:9;19
+msgid "About"
+msgstr "Derbar"
+
+#: Controller/PagesController.php:26 View/Artists/welcome.ctp:89
+#: View/Pages/contact.ctp:9;19
+msgid "Contact"
+msgstr "Peywendî"
+
+#: Controller/PagesController.php:35 View/Pages/sitemap.ctp:13;23
+msgid "Sitemap"
+msgstr "Nexşe"
+
+#: Controller/RequestsController.php:45 View/Requests/album.ctp:67
+#: View/Requests/artist.ctp:67 View/Requests/index.ctp:3
+#: View/Requests/lyric.ctp:69
+msgid "Request"
+msgstr "Daxwaz"
+
+#: Controller/RequestsController.php:61;64
+msgid "Invalid request"
+msgstr "Daxwaz ne berdest e"
+
+#: Controller/RequestsController.php:69
+msgid "The request has been deleted."
+msgstr "Daxwaz hat jêbirin."
+
+#: Controller/RequestsController.php:79
+msgid "The request can not be deleted."
+msgstr "Daxwaz nehat jêbirin."
+
+#: Controller/RequestsController.php:94
+msgid "Requests Panel"
+msgstr "Tabloya daxwazan "
+
+#: Controller/RequestsController.php:119;136
+msgid "Request an Artist"
+msgstr "Hunermendekî bixwaz"
+
+#: Controller/RequestsController.php:133
+msgid "Artist request been sent successfully."
+msgstr "Xwestina hunermed serkeftî hate şandin."
+
+#: Controller/RequestsController.php:149;187;225
+msgid "Error in request."
+msgstr "Daxwaz ne berdest e."
+
+#: Controller/RequestsController.php:157;174
+msgid "Request an Album"
+msgstr "Berhemekê bixwaz"
+
+#: Controller/RequestsController.php:171
+msgid "Album request been sent successfully."
+msgstr "Xwestina berhem serkeftî hate şandin."
+
+#: Controller/RequestsController.php:195;212
+msgid "Request a Lyric"
+msgstr "Stranekê bixwaz"
+
+#: Controller/RequestsController.php:209
+msgid "Lyric request been sent successfully."
+msgstr "Xwestina stranê serkeftî hate şandin."
+
+#: Controller/UsersController.php:173
+msgid "Unknown Error could not verify the user."
+msgstr "Şaşiyeke Nenaskirî, endam nayê danasîn."
+
+#: Controller/UsersController.php:299;349;354;360 View/Elements/header.ctp:23
+#: View/Elements/sidebar_dashboard.ctp:71 View/Users/add_photo.ctp:6
+#: View/Users/add_photo_crop.ctp:11 View/Users/add_photo_thumb_view.ctp:7
+#: View/Users/edit.ctp:3;14 View/Users/index.ctp:3;13
+#: View/Users/profile.ctp:38 View/Users/property.ctp:3
+#: View/Users/property_album.ctp:3 View/Users/property_artist.ctp:3
+#: View/Users/property_lyric.ctp:3 View/Users/settings.ctp:14
+#: View/Users/userslist.ctp:13;24 View/Users/userslist_empty.ctp:3;14
+#: View/Users/userslist_start.ctp:3;13
+msgid "Users"
+msgstr "Endam"
+
+#: Controller/UsersController.php:398
+msgid "You are logged in now."
+msgstr "Hûn niha têde ne."
+
+#: Controller/UsersController.php:403;449
+msgid "Username or password is invalid."
+msgstr "Navê endam yan şîfre şaş e."
+
+#: Controller/UsersController.php:433 View/Artists/welcome.ctp:72
+#: View/Elements/Users/menu_login.ctp:4;33 View/Users/login.ctp:3;12;54
+msgid "Login"
+msgstr "Têketin"
+
+#: Controller/UsersController.php:449
+msgid ""
+"If you think your account has problem, make contact with contact@hunerakurdi."
+"com."
+msgstr ""
+"Ger şaştiyek hebe di nava hesabê te de, têkilyê bi contact@hunerakurdi.com "
+"re bike."
+
+#: Controller/UsersController.php:474
+msgid "Login successfully,you are now free to add or edit lyrics."
+msgstr "Têketin serkeftî bû. Hûn dikarin stranan deynin û sererast bikin."
+
+#: Controller/UsersController.php:477
+msgid "Login status"
+msgstr "Barûdoxa têketinê"
+
+#: Controller/UsersController.php:501;529
+msgid "You are loggedout now,thank you for using HK-Dashboard."
+msgstr "Hûn aniha derketî ne. Spas bo bikarhanîna Klavyeya HK."
+
+#: Controller/UsersController.php:504;532
+msgid "Logout status"
+msgstr "Barûdoxa derketinê"
+
+#: Controller/UsersController.php:547
+msgid "%s's settings"
+msgstr "Mîhenga %s"
+
+#: Controller/UsersController.php:566
+msgid "The settings has been updated for %s."
+msgstr "Pênasîna %s bi serkeftî nûjenbû."
+
+#: Controller/UsersController.php:566
+msgid "You have to logout to see the effects."
+msgstr "Divê derkevî bo nûjenkirinê."
+
+#: Controller/UsersController.php:577
+msgid "The settings could not be saved. Please, try again."
+msgstr "Mîheng nehate tomarkirin. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/UsersController.php:726;729;730;888;891;904;908;913
+msgid "Unknown user."
+msgstr "Karhîner nenas e"
+
+#: Controller/UsersController.php:789
+msgid "The photo for user %s has been saved successfully."
+msgstr "Wêna %s bi serkeftî tomar bû."
+
+#: Controller/UsersController.php:814
+msgid "The photo for user %s has been rest for default."
+msgstr "Wêna %s vegeriya wekî berê."
+
+#: Controller/UsersController.php:905;916
+msgid "%s's Properties"
+msgstr "Çalakiyên %s"
+
+#: Controller/UsersController.php:983
+msgid "Unknown section."
+msgstr "Beşekî nenas."
+
+#: Controller/UsersController.php:987 View/Artists/welcome.ctp:71
+#: View/Elements/Users/menu_login.ctp:7;46 View/Lyrics/note.ctp:55
+#: View/Users/signup.ctp:161
+msgid "Signup"
+msgstr "Tomarke"
+
+#: Controller/UsersController.php:1009
+msgid ""
+"New user has been added successfully,please add further informations about "
+"you."
+msgstr ""
+"Endamekî nû bi serkeftî tev lê bû. Bê zehmet bêhtir zaniyariyan derbarî xwe "
+"dagir."
+
+#: Controller/UsersController.php:1012
+msgid "The user has been saved"
+msgstr "Endam hate ezberkirin."
+
+#: Controller/UsersController.php:1022;1045
+msgid "The user could not be saved. Please, try again."
+msgstr "Endam nehate ezberkirin. Bê zehmet, dîsa lê vegerin."
+
+#: Controller/UsersController.php:1042
+msgid "The user has been saved."
+msgstr "Endam hate ezberkirin."
+
+#: Controller/UsersController.php:1049
+msgid "Add users"
+msgstr "Endaman tev lê bike."
+
+#: Controller/UsersController.php:1059;1081
+msgid "Invalid user"
+msgstr "Endamekî ne berdest e"
+
+#: View/Albums/add.ctp:3 View/Artists/add.ctp:3 View/Lyrics/add.ctp:139
+msgid "Add"
+msgstr "Tevlêkirin"
+
+#: View/Albums/add.ctp:4 View/Elements/FileTemplate/rtf_file.ctp:17
+#: View/Elements/FileTemplate/txt_file.ctp:13
+#: View/Elements/Request/request_item.ctp:8
+#: View/Elements/Request/request_item_panel.ctp:9 View/Lyrics/add.ctp:178
+#: View/Lyrics/add_artist.ctp:48 View/Lyrics/add_no_album.ctp:30
+#: View/Requests/album.ctp:4 View/Requests/index.ctp:53;59
+#: View/Users/property.ctp:36;40 View/Users/property_album.ctp:6
+#: View/Users/property_lyric.ctp:47
+msgid "Album"
+msgstr "Berhem"
+
+#: View/Albums/add.ctp:13
+msgid "New album"
+msgstr "Berhemeke nû"
+
+#: View/Albums/add.ctp:14 View/Albums/add_artist.ctp:21
+#: View/Albums/edit.ctp:21 View/Artists/add.ctp:14 View/Artists/edit.ctp:17
+#: Model/Album.php:validation for field title Model/Artist.php:validation name
+#: Model/Lyric.php:validation title;validation writer;validation composer
+#: Model/Request.php:validation Model/User.php:validation
+msgid "Only Kurdish-Latin alphabet is allowed."
+msgstr "Tenê alfebeta Kurdî-Latînî berdest e."
+
+#: View/Albums/add.ctp:23 View/Artists/add.ctp:24 View/Artists/edit.ctp:34
+msgid "Artist Name"
+msgstr "Navê Hunermend"
+
+#: View/Albums/add.ctp:29 View/Albums/add_artist.ctp:32
+#: View/Albums/edit.ctp:36
+msgid "Album Title"
+msgstr "Sernavê Berhemê"
+
+#: View/Albums/add.ctp:34 View/Albums/add_artist.ctp:37
+#: View/Albums/edit.ctp:41
+msgid "Album Year"
+msgstr "Sala Berhemê"
+
+#: View/Albums/add.ctp:35 View/Albums/add_artist.ctp:38
+msgid "example"
+msgstr "Nimûne"
+
+#: View/Albums/add.ctp:44 View/Albums/add_artist.ctp:46
+#: View/Albums/edit.ctp:51 View/Artists/add.ctp:34 View/Artists/edit.ctp:44
+#: View/Elements/album/lyric_edit_hook_form.ctp:53 View/Lyrics/add.ctp:234
+#: View/Lyrics/add_album.ctp:75 View/Lyrics/add_artist.ctp:88
+#: View/Lyrics/edit.ctp:90 View/Users/settings.ctp:90
+msgid "Save"
+msgstr "Ezberkirin"
+
+#: View/Albums/add_artist.ctp:8
+msgid "New Album"
+msgstr "Berhemeke nû"
+
+#: View/Albums/add_artist.ctp:20
+msgid "New album for artist %s"
+msgstr "Berhemeke nû bo hunermend %s"
+
+#: View/Albums/add_photo.ctp:11 View/Albums/add_photo_crop.ctp:16
+#: View/Albums/add_photo_thumb_view.ctp:12 View/Albums/edit.ctp:25
+#: View/Artists/add_photo.ctp:5 View/Artists/add_photo_crop.ctp:11
+#: View/Artists/add_photo_thumb_view.ctp:8 View/Artists/edit.ctp:21
+msgid "Change photo"
+msgstr "Wêneyê biguher"
+
+#: View/Albums/add_photo.ctp:22 View/Albums/add_photo_crop.ctp:27
+#: View/Albums/add_photo_thumb_view.ctp:23 View/Artists/add_photo.ctp:16
+#: View/Artists/add_photo_crop.ctp:22 View/Artists/add_photo_thumb_view.ctp:19
+#: View/Users/add_photo.ctp:20 View/Users/add_photo_crop.ctp:25
+#: View/Users/add_photo_thumb_view.ctp:21
+msgid "Change photo for %s"
+msgstr "Wêneyê %s biguher"
+
+#: View/Albums/add_photo.ctp:24
+msgid "Select album thumbnail and click upload."
+msgstr "Wêneyê berhemê hilbijêre û dûre barke."
+
+#: View/Albums/add_photo.ctp:25 View/Artists/add_photo.ctp:19
+#: View/Users/add_photo.ctp:23
+msgid "Square photos will be saved directly."
+msgstr "Wêneyên çargoşe wê yekser ezberbibe."
+
+#: View/Albums/add_photo.ctp:26 View/Artists/add_photo.ctp:20
+#: View/Users/add_photo.ctp:24
+msgid "Photo must be over 200x200."
+msgstr "Pêwîste wêne ji 200x200 mestir be."
+
+#: View/Albums/add_photo.ctp:31 View/Albums/add_photo_crop.ctp:32
+#: View/Albums/add_photo_thumb_view.ctp:28 View/Albums/edit.ctp:9
+#: View/Albums/index.ctp:34 View/Artists/add_photo.ctp:25
+#: View/Artists/add_photo_crop.ctp:27 View/Artists/add_photo_thumb_view.ctp:24
+#: View/Artists/edit.ctp:5 View/Artists/index.ctp:34
+#: View/Elements/lyric/entry-action.ctp:8 View/Elements/~/entry-action.ctp:10
+#: View/Lyrics/edit.ctp:8 View/Lyrics/lyricslist.ctp:60 View/Users/edit.ctp:4
+#: View/Users/userslist.ctp:75
+msgid "Edit"
+msgstr "Sererastkirin"
+
+#: View/Albums/add_photo.ctp:31 View/Albums/add_photo_crop.ctp:32
+#: View/Albums/add_photo_thumb_view.ctp:28
+msgid "Edit album %s."
+msgstr "Sererastkirina berhema %s"
+
+#: View/Albums/add_photo.ctp:32 View/Albums/add_photo_crop.ctp:33
+#: View/Albums/add_photo_thumb_view.ctp:29
+msgid "Add lyric to album %s."
+msgstr "Gotinekê tevlî berhema %s bike."
+
+#: View/Albums/add_photo.ctp:46 View/Artists/add_photo.ctp:41
+#: View/Users/add_photo.ctp:38
+msgid "Select Your Image"
+msgstr "Wêneyê hilbijêr."
+
+#: View/Albums/add_photo.ctp:48 View/Artists/add_photo.ctp:43
+#: View/Users/add_photo.ctp:40
+msgid "Click to select file"
+msgstr "Pêlê bike û hilbijêre"
+
+#: View/Albums/add_photo.ctp:49 View/Artists/add_photo.ctp:44
+#: View/Users/add_photo.ctp:41
+msgid "Upload"
+msgstr "Bar bike"
+
+#: View/Albums/add_photo_crop.ctp:28 View/Artists/add_photo_crop.ctp:23
+#: View/Users/add_photo_crop.ctp:26
+msgid "Select proper part and select crop."
+msgstr "Cihê baş nîşan bide û zad bike."
+
+#: View/Albums/add_photo_crop.ctp:59 View/Artists/add_photo_crop.ctp:55
+#: View/Users/add_photo_crop.ctp:51
+msgid "Crop"
+msgstr "Zad bike"
+
+#: View/Albums/add_photo_crop.ctp:61 View/Albums/add_photo_thumb_view.ctp:48
+#: View/Artists/add_photo_crop.ctp:57 View/Artists/add_photo_thumb_view.ctp:46
+#: View/Users/add_photo_crop.ctp:53 View/Users/add_photo_thumb_view.ctp:41
+msgid "cancel"
+msgstr "Betal bike"
+
+#: View/Albums/add_photo_crop.ctp:62 View/Albums/add_photo_thumb_view.ctp:50
+#: View/Artists/add_photo_crop.ctp:58 View/Artists/add_photo_thumb_view.ctp:48
+#: View/Users/add_photo_crop.ctp:54 View/Users/add_photo_thumb_view.ctp:43
+msgid "delete"
+msgstr "Jêbibibe"
+
+#: View/Albums/add_photo_thumb_view.ctp:24
+#: View/Artists/add_photo_thumb_view.ctp:20
+#: View/Users/add_photo_thumb_view.ctp:22
+msgid "Select accept to save current photo view to %s photo."
+msgstr "Bipejirîne bo ezberkirina wan rengdêran li ser %s."
+
+#: View/Albums/add_photo_thumb_view.ctp:47
+#: View/Artists/add_photo_thumb_view.ctp:45 View/Lyrics/history.ctp:96
+#: View/Users/add_photo_thumb_view.ctp:40
+msgid "accept"
+msgstr "Bipejirîne "
+
+#: View/Albums/add_photo_thumb_view.ctp:49
+#: View/Artists/add_photo_thumb_view.ctp:47
+#: View/Users/add_photo_thumb_view.ctp:42
+msgid "recrop"
+msgstr "Dîsa Zadbike"
+
+#: View/Albums/edit.ctp:25
+msgid "Change photo for album %s."
+msgstr "Wêney berhema %s biguher."
+
+#: View/Albums/edit.ctp:26 View/Artists/add_photo.ctp:27
+#: View/Artists/add_photo_crop.ctp:29 View/Artists/add_photo_thumb_view.ctp:26
+#: View/Artists/edit.ctp:23 View/Artists/index.ctp:30;114
+msgid "Add lyric to %s."
+msgstr "Gorinekê tevlî %s bike."
+
+#: View/Albums/index.ctp:32
+msgid "Add lyric to album %s for %s."
+msgstr "Gorinekê tevlî berhema %s ya %s bike."
+
+#: View/Albums/index.ctp:34
+msgid "Edit album %s for %s."
+msgstr "Berhem %s ya %s sererast bike."
+
+#: View/Albums/index.ctp:37 View/Artists/index.ctp:37
+#: View/Elements/Request/request_item_panel.ctp:44 View/Lyrics/edit.ctp:30
+#: View/Lyrics/lyricslist.ctp:61 View/Users/userslist.ctp:76
+msgid "Delete"
+msgstr "Jêbibe"
+
+#: View/Albums/index.ctp:37
+msgid "Delete album %s from %s."
+msgstr "Berhema %s ya %s jêbibe."
+
+#: View/Albums/index.ctp:37 View/Artists/index.ctp:37 View/Lyrics/edit.ctp:30
+#: View/Lyrics/lyricslist.ctp:61
+msgid "Are you sure you want to delete %s?"
+msgstr "Gelo hûn piştrastin ku %s  jêbibin ?"
+
+#: View/Albums/index.ctp:43
+msgid "Request an album"
+msgstr "Berhemekê bixwaz"
+
+#: View/Albums/index.ctp:43
+msgid "Request an album from HK."
+msgstr "Berhemekê ji HK bixwaz."
+
+#: View/Albums/index.ctp:52
+msgid "The album is not Available for public yet (need to be approved)."
+msgstr "Ev berhem hîn ne diyare ji xelkê ve (divê bê pejirandin)."
+
+#: View/Albums/index.ctp:63 View/Artists/artist_list.ctp:61
+#: View/Artists/index.ctp:66;86;111 View/Elements/sidebar_dashboard.ctp:53
+#: View/Elements/Dashboard/approvals.ctp:10;65
+#: View/Elements/Find/search_item_artist.ctp:18
+#: View/Elements/Find/search_tabs.ctp:4 View/Find/find.ctp:29
+#: View/Find/find_lyric.ctp:19 View/Users/index.ctp:29
+#: View/Users/profile.ctp:79;98 View/Users/property_album.ctp:49
+#: View/Users/property_artist.ctp:49 View/Users/property_lyric.ctp:17
+msgid "Lyrics"
+msgstr "Stran "
+
+#: View/Artists/add.ctp:4 View/Elements/Dashboard/approvals.ctp:16
+#: View/Elements/FileTemplate/rtf_file.ctp:16
+#: View/Elements/FileTemplate/txt_file.ctp:12
+#: View/Elements/Request/request_item.ctp:11
+#: View/Elements/Request/request_item_panel.ctp:12 View/Lyrics/add.ctp:171
+#: View/Lyrics/add_no_album.ctp:37 View/Requests/artist.ctp:4
+#: View/Requests/index.ctp:35;41 View/Users/property.ctp:29;33
+#: View/Users/property_album.ctp:50 View/Users/property_artist.ctp:6
+#: View/Users/property_lyric.ctp:48
+msgid "Artist"
+msgstr "Hunermend"
+
+#: View/Artists/add.ctp:13
+msgid "New artist"
+msgstr "Hunermendekî nû"
+
+#: View/Artists/add.ctp:53 View/Artists/edit.ctp:63
+#: View/Elements/sidebar_dashboard.ctp:54
+#: View/Elements/Find/search_item_album.ctp:10 View/Users/profile.ctp:58
+msgid "%s lyrics"
+msgstr "%s stran"
+
+#: View/Artists/add.ctp:54 View/Artists/edit.ctp:64
+#: View/Elements/sidebar_dashboard.ctp:35 View/Find/find_album.ctp:50
+#: View/Users/profile.ctp:57
+msgid "%s albums"
+msgstr "%s berhem"
+
+#: View/Artists/add.ctp:75 View/Artists/edit.ctp:85
+#: View/Elements/lyric/entry-meta.ctp:37;39 View/Elements/~/entry-meta.ctp:21
+msgid "Posted on %s "
+msgstr "Hate çapkirin di %s"
+
+#: View/Artists/add.ctp:81 View/Artists/edit.ctp:91
+#: View/Elements/lyric/entry-meta.ctp:4;7 View/Elements/~/entry-meta.ctp:28
+msgid "By %s"
+msgstr "Ji aliyê %s ve"
+
+#: View/Artists/add_photo.ctp:18
+msgid "Select artist thumbnail and click upload."
+msgstr "Wêneyê hunermend hilbijêre û dûre barke."
+
+#: View/Artists/add_photo.ctp:25 View/Artists/add_photo_crop.ctp:27
+#: View/Artists/add_photo_thumb_view.ctp:24 View/Artists/artist_list.ctp:66
+msgid "Edit artist %s"
+msgstr "Sererastkirina hunermend %s"
+
+#: View/Artists/add_photo.ctp:26 View/Artists/add_photo_crop.ctp:28
+#: View/Artists/add_photo_thumb_view.ctp:25 View/Artists/edit.ctp:22
+#: View/Artists/index.ctp:29
+msgid "Add album"
+msgstr "Danîna berhemekê"
+
+#: View/Artists/add_photo.ctp:26 View/Artists/add_photo_crop.ctp:28
+#: View/Artists/add_photo_thumb_view.ctp:25 View/Artists/edit.ctp:22
+msgid "Add album to %s."
+msgstr "Danîna berhemekê ser %s"
+
+#: View/Artists/artist_list.ctp:23 View/Artists/artist_list_empty.ctp:23
+msgid "Add artist"
+msgstr "Danîna hunermendekî"
+
+#: View/Artists/artist_list.ctp:29 View/Artists/artist_list_empty.ctp:29
+#: View/Artists/index.ctp:43
+msgid "Request an artist"
+msgstr "Hunermendekî bixwaz"
+
+#: View/Artists/artist_list.ctp:29 View/Artists/artist_list_empty.ctp:29
+#: View/Artists/index.ctp:43
+msgid "Request an artist from HK."
+msgstr "Daxwaza hunermendekî ji HK bike"
+
+#: View/Artists/artist_list.ctp:39 View/Users/userslist.ctp:27
+msgid "%s Results"
+msgstr "%s Encam"
+
+#: View/Artists/artist_list.ctp:39 View/Artists/artist_list_empty.ctp:39
+msgid "Empty"
+msgstr "Vala"
+
+#: View/Artists/artist_list.ctp:59 View/Artists/index.ctp:65;85
+#: View/Elements/sidebar_dashboard.ctp:34
+#: View/Elements/Dashboard/approvals.ctp:9;41
+#: View/Elements/Find/search_item_artist.ctp:17
+#: View/Elements/Find/search_tabs.ctp:3 View/Find/find.ctp:28
+#: View/Find/find_album.ctp:19 View/Users/index.ctp:31
+#: View/Users/profile.ctp:78 View/Users/property_album.ctp:17
+#: View/Users/property_artist.ctp:48
+msgid "Albums"
+msgstr "Berhem"
+
+#: View/Artists/artist_list_empty.ctp:46
+msgid "Sorry, but nothing matched %s."
+msgstr "Bibor, tiştek bi navê %s nehate dîtin."
+
+#: View/Artists/artist_list_empty.ctp:47
+msgid "Please try to send us your  request on %s ."
+msgstr "Bê zehmet, daxwaza xwe bişîne %s."
+
+#: View/Artists/artist_list_empty.ctp:47
+msgid "Here"
+msgstr "Ji vêderê"
+
+#: View/Artists/edit.ctp:21
+msgid "Change photo for artist %s."
+msgstr "Wêneya hunermend % s biguhere."
+
+#: View/Artists/index.ctp:34 View/Elements/album/lyric_item.ctp:22
+msgid "edit %s"
+msgstr "Sererastkirina %s"
+
+#: View/Artists/index.ctp:37
+msgid "Delete artist %s."
+msgstr "Hunermend %s jêbibe"
+
+#: View/Artists/index.ctp:53
+msgid "The artist is not available for public yet (need to be approved)."
+msgstr "Ev hunermend hîn ne diyare ji xelkê ve (divê bê pejirandin)."
+
+#: View/Artists/index.ctp:82
+msgid "Sorry, no content is ready yet for artist %s."
+msgstr "Bibûre, hîn tiştekî hunermend %s ne hazir e."
+
+#: View/Artists/index.ctp:116
+msgid "Edit album %s for artist %s."
+msgstr "Berhema %s ya %s sererast bike."
+
+#: View/Dashboard/index.ctp:16
+msgid "HK Dashboard"
+msgstr "Kontrolgeha HK"
+
+#: View/Dashboard/index.ctp:17
+msgid "This is control panel of the site."
+msgstr "Ev cîhê kontrolkirina malperê ye."
+
+#: View/Dashboard/index.ctp:21
+msgid ""
+"Through this dashboard you can add,edit and delete all contents such as "
+"artists,albums and lyrics."
+msgstr ""
+"Di riya vê tabloyê ve hûn dikarin tevlêkirin, sererastkirin û jêbirina "
+"naverrokan bikin ji hunermend, berhem û gotinan."
+
+#: View/Dashboard/index.ctp:22
+msgid ""
+"User's abilities depends on it's position,new user can just add lyrics and "
+"delete or edit thier owns."
+msgstr ""
+"Destdirêjiya endaman li gor cîhê wan di malperê de ye, endamê nû tenê dikare "
+"gotinan tev lê bike û yên xwe jêbibe an biguhere."
+
+#: View/Dashboard/messages.ctp:16
+msgid ""
+"It is open for everyone to send their notes about mistakes and suggestions "
+"to our community."
+msgstr ""
+"Her kes dikare bîrnivîsan li ser şaşî û pêşniyariyan ji civaka me re bişîne."
+
+#: View/Dashboard/messages.ctp:22
+#: View/Elements/Dashboard/public_messages.ctp:14
+msgid "%s messages"
+msgstr "%s bîrnivîs"
+
+#: View/Dashboard/messages.ctp:23
+#: View/Elements/Dashboard/public_messages.ctp:15
+msgid "%s unreads"
+msgstr "%s nexwendî"
+
+#: View/Dashboard/messages.ctp:35 View/Find/find_album.ctp:47
+#: View/Find/find_artist.ctp:47 View/Find/find_lyric.ctp:47
+#: View/Lyrics/lyricslist.ctp:24 View/Requests/panel.ctp:43
+#: View/Users/property_album.ctp:36 View/Users/property_artist.ctp:36
+#: View/Users/property_lyric.ctp:36
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Rûpel {:page} ji {:pages} rûpel, her rûpelek {:current} têde ne. {:count} "
+"tomarkirî ne, ji {:start} ta  {:end}  niha diyar e."
+
+#: View/Elements/footer.ctp:12;19
+msgid "Random selection"
+msgstr "Gotinên werdanî"
+
+#: View/Elements/footer.ctp:16 View/Elements/header.ctp:4
+#: View/Elements/sidebar.ctp:7;42;80
+msgid "Toggle navigation"
+msgstr "Lîsteyê biguhere"
+
+#: View/Elements/sidebar.ctp:3;10 View/Users/profile.ctp:118
+msgid "Latest Lyrics"
+msgstr "Stranên dawî"
+
+#: View/Elements/sidebar.ctp:38;45 View/Users/profile.ctp:145
+msgid "Popular Lyrics"
+msgstr "Stranên navdar"
+
+#: View/Elements/sidebar.ctp:75;83
+msgid "Recent Edited Lyrics"
+msgstr "Stranên nû sererastkirî"
+
+#: View/Elements/sidebar_dashboard.ctp:14
+#: View/Elements/Dashboard/approvals.ctp:8
+#: View/Elements/Find/search_tabs.ctp:2 View/Find/find.ctp:27
+#: View/Find/find_artist.ctp:19 View/Users/index.ctp:33
+#: View/Users/property_artist.ctp:17
+msgid "Artists"
+msgstr "Hunermend"
+
+#: View/Elements/sidebar_dashboard.ctp:15 View/Users/profile.ctp:56
+msgid "%s artists"
+msgstr "%s hunermend"
+
+#: View/Elements/sidebar_dashboard.ctp:20
+msgid "Add new artist"
+msgstr "Hunermendekî nû"
+
+#: View/Elements/sidebar_dashboard.ctp:40 View/Lyrics/add.ctp:96
+msgid "Add new album"
+msgstr "Berhemeke nû"
+
+#: View/Elements/sidebar_dashboard.ctp:58
+msgid "Add new lyric"
+msgstr "Straneke nû"
+
+#: View/Elements/sidebar_dashboard.ctp:62
+msgid "List my lyrics"
+msgstr "Stranên min"
+
+#: View/Elements/sidebar_dashboard.ctp:75
+msgid "Add new user"
+msgstr "Endamekî  nû"
+
+#: View/Elements/sidebar_dashboard.ctp:79 View/Users/userslist.ctp:14
+#: View/Users/userslist_empty.ctp:4 View/Users/userslist_start.ctp:4
+msgid "List all users"
+msgstr "Hemî endam"
+
+#: View/Elements/Dashboard/approvals.ctp:3
+#: View/Elements/Users/menu_approvals.ctp:2
+msgid "Approvals"
+msgstr "Pejirandin"
+
+#: View/Elements/Dashboard/approvals.ctp:20;45;69
+msgid "By "
+msgstr "Bi riya"
+
+#: View/Elements/Dashboard/approvals.ctp:30;55;78
+msgid "accept %s"
+msgstr "%s bipejirîn"
+
+#: View/Elements/Dashboard/approvals.ctp:31;56;79
+msgid "remove %s"
+msgstr "%s jêbib"
+
+#: View/Elements/Dashboard/approvals.ctp:93
+msgid "Loading"
+msgstr "Bar dike"
+
+#: View/Elements/Dashboard/approvals.ctp:103
+#: View/Elements/FileTemplate/htm_file.ctp:33
+#: View/Elements/FileTemplate/pdf_file.ctp:82
+#: View/Elements/FileTemplate/rtf_file.ctp:20
+#: View/Elements/FileTemplate/txt_file.ctp:15 View/Lyrics/history.ctp:125
+msgid "Writer"
+msgstr "Nivîser"
+
+#: View/Elements/Dashboard/approvals.ctp:104
+#: View/Elements/FileTemplate/htm_file.ctp:34
+#: View/Elements/FileTemplate/pdf_file.ctp:83
+#: View/Elements/FileTemplate/rtf_file.ctp:23
+#: View/Elements/FileTemplate/txt_file.ctp:16 View/Lyrics/add.ctp:208
+#: View/Lyrics/add_album.ctp:48 View/Lyrics/add_artist.ctp:67
+#: View/Lyrics/edit.ctp:52 View/Lyrics/history.ctp:126
+msgid "Composer"
+msgstr "Awazçêker"
+
+#: View/Elements/Dashboard/approvals.ctp:105
+#: View/Elements/FileTemplate/htm_file.ctp:36
+#: View/Elements/FileTemplate/pdf_file.ctp:86
+#: View/Elements/FileTemplate/rtf_file.ctp:25
+#: View/Elements/FileTemplate/txt_file.ctp:17
+msgid "Echelon"
+msgstr "Hejmar"
+
+#: View/Elements/Dashboard/messages.ctp:3 View/Elements/Users/menu_notes.ctp:2
+msgid "Notes"
+msgstr "Bîrnivîsk"
+
+#: View/Elements/Dashboard/notifications.ctp:3
+#: View/Elements/Users/menu_notifications.ctp:2
+msgid "Notifications"
+msgstr "Agahdarî"
+
+#: View/Elements/Dashboard/public_messages_item.ctp:16
+msgid "new"
+msgstr "nû"
+
+#: View/Elements/FileTemplate/htm_file.ctp:48
+#: View/Elements/FileTemplate/rtf_file.ctp:32
+#: View/Elements/FileTemplate/txt_file.ctp:33
+msgid "written by"
+msgstr "Nivîser"
+
+#: View/Elements/FileTemplate/htm_file.ctp:49
+#: View/Elements/FileTemplate/rtf_file.ctp:34
+#: View/Elements/FileTemplate/txt_file.ctp:36
+msgid "last modified was at"
+msgstr "Guhertina dawî di"
+
+#: View/Elements/FileTemplate/htm_file.ctp:50
+#: View/Elements/FileTemplate/rtf_file.ctp:41
+#: View/Elements/FileTemplate/txt_file.ctp:47 View/Lyrics/add.ctp:224
+#: View/Lyrics/add_album.ctp:65 View/Lyrics/edit.ctp:69
+#: View/Lyrics/index.ctp:167
+msgid "The source of this is from : %s"
+msgstr "Hatiye anîn ji : %s"
+
+#: View/Elements/FileTemplate/htm_file.ctp:53
+#: View/Elements/FileTemplate/rtf_file.ctp:45
+#: View/Elements/FileTemplate/txt_file.ctp:52
+msgid "link"
+msgstr "girêdan"
+
+#: View/Elements/FileTemplate/pdf_file.ctp:104
+msgid "Source of this is from"
+msgstr "Hatiye anîn ji"
+
+#: View/Elements/FileTemplate/pdf_file.ctp:106
+msgid "Written by"
+msgstr "Nivîser"
+
+#: View/Elements/FileTemplate/pdf_file.ctp:111
+msgid "Last modified was at"
+msgstr "Guhertina dawî di"
+
+#: View/Elements/Find/search_bar.ctp:9 View/Find/empty.ctp:14
+#: View/Find/find.ctp:14 View/Find/find_album.ctp:17
+#: View/Find/find_artist.ctp:17 View/Find/find_lyric.ctp:17
+#: View/Find/index.ctp:14;23
+msgid "Search"
+msgstr "Lêgerîn"
+
+#: View/Elements/Property/navigator.ctp:3
+msgid "artists"
+msgstr "hunermend"
+
+#: View/Elements/Property/navigator.ctp:4
+msgid "albums"
+msgstr "berhem"
+
+#: View/Elements/Property/navigator.ctp:5
+msgid "lyrics"
+msgstr "stran"
+
+#: View/Elements/Request/request_item.ctp:5;14
+#: View/Elements/Request/request_item_panel.ctp:6;15 View/Lyrics/add.ctp:140
+#: View/Requests/index.ctp:69;75 View/Requests/lyric.ctp:4
+#: View/Users/property.ctp:43;47 View/Users/property_lyric.ctp:6
+msgid "Lyric"
+msgstr "Stran"
+
+#: View/Elements/Request/request_item.ctp:24
+#: View/Elements/Request/request_item_panel.ctp:42
+msgid "%s request"
+msgstr "%s daxwaz"
+
+#: View/Elements/Request/request_item_panel.ctp:32
+msgid "Visible"
+msgstr "Berdest"
+
+#: View/Elements/Request/request_item_panel.ctp:32
+msgid "Visible for public"
+msgstr "Berdest e bo her kesî"
+
+#: View/Elements/Request/request_item_panel.ctp:36
+msgid "Unvisible"
+msgstr "Veşartî"
+
+#: View/Elements/Request/request_item_panel.ctp:36
+msgid "Hidden from public"
+msgstr "Veşartî ji her kesî"
+
+#: View/Elements/Request/request_item_panel.ctp:44
+msgid "Delete this request"
+msgstr "Ev daxwaz jêbib"
+
+#: View/Elements/Request/request_item_panel.ctp:44
+msgid "Are you sure you want to delete # %s?"
+msgstr "Gelo hûn piştrastin da ku # %s jêbibin ?"
+
+#: View/Elements/Users/menu_login.ctp:13
+msgid "This is HK login board."
+msgstr "Ev tebloya têketinê ye."
+
+#: View/Elements/Users/menu_login.ctp:14
+msgid ""
+"Provide your username and password if you are a member, or click on Signup "
+"to start new account in HK."
+msgstr ""
+"Nav û şîfra xwe binivîs û têkev ger ji berê de endamî. Yan Tomarke li xwarê "
+"ger ne endamî."
+
+#: View/Elements/Users/menu_login.ctp:29
+msgid "Remember me"
+msgstr "Min bi bîr bîne "
+
+#: View/Elements/Users/menu_login.ctp:46 View/Users/login.ctp:64
+msgid "Don't have an account!"
+msgstr "Hesabê te tune!"
+
+#: View/Elements/Users/menu_login.ctp:47 View/Users/login.ctp:17
+msgid "Forgot password?"
+msgstr "Te şîfre jibîr kir?"
+
+#: View/Elements/Users/menu_login.ctp:54 View/Users/login.ctp:55
+#: View/Users/signup.ctp:48
+msgid "Login with Facebook"
+msgstr "Di rêya Facebookê re têkev "
+
+#: View/Elements/Users/menu_user.ctp:7
+msgid "Profile"
+msgstr "Pênasîn "
+
+#: View/Elements/Users/menu_user.ctp:10 View/Users/add_photo.ctp:8
+#: View/Users/add_photo_crop.ctp:13 View/Users/add_photo_thumb_view.ctp:9
+#: View/Users/settings.ctp:16;27
+msgid "Settings"
+msgstr "Mîheng"
+
+#: View/Elements/Users/menu_user.ctp:19
+msgid "Logout"
+msgstr "Derkeve"
+
+#: View/Elements/Users/profile_entry.ctp:13 View/Users/settings.ctp:60
+msgid "First name"
+msgstr "Nav"
+
+#: View/Elements/Users/profile_entry.ctp:16 View/Users/settings.ctp:64
+msgid "Last name"
+msgstr "Paşnav"
+
+#: View/Elements/Users/profile_entry.ctp:36;64
+msgid "Is registerd since %s."
+msgstr "%s de tomarkirî ye."
+
+#: View/Elements/Users/profile_entry.ctp:65
+msgid "Edit My Profile"
+msgstr "Nasnameyê sererast bike"
+
+#: View/Elements/album/album_item.ctp:30
+msgid "Play the only song with HK-Player"
+msgid_plural "Play all %s songs with HK-Player"
+msgstr[0] "Vê stranê tenê guhdar bi HK-Player"
+msgstr[1] "Hemû %s stranan guhdar bike bi HK-Player"
+
+#: View/Elements/album/lyric_edit_hook_form.ctp:9
+msgid "Manipulate the song"
+msgstr "Stranê dengî daxe"
+
+#: View/Elements/album/lyric_edit_hook_form.ctp:21
+msgid "Please wait..."
+msgstr "Raewstin..."
+
+#: View/Elements/album/lyric_edit_hook_form.ctp:25
+msgid "Cannot Load"
+msgstr "Nedikarî hilgire"
+
+#: View/Elements/album/lyric_edit_hook_form.ctp:39
+msgid "File url"
+msgstr "Navnîşana file'ê"
+
+#: View/Elements/album/lyric_edit_hook_form.ctp:59
+msgid "Your song has been saved successfuly."
+msgstr "Stran bi serfketî tevlê bû."
+
+#: View/Elements/lyric/entry-action.ctp:16 View/Elements/lyric/player.ctp:33
+#: View/Elements/~/player.ctp:26
+msgid "Download"
+msgstr "Daxîn"
+
+#: View/Elements/lyric/entry-edits.ctp:6 View/Elements/~/entry-action.ctp:21
+msgid "This Lyric has beend updated "
+msgstr "Ev stran hatiye guhertin "
+
+#: View/Elements/lyric/entry-edits.ctp:36
+msgid "Editors : %s"
+msgstr "Sererastker : %s"
+
+#: View/Elements/lyric/entry-edits.ctp:7 View/Elements/~/entry-action.ctp:22
+msgid "one time "
+msgid_plural "%s times "
+msgstr[0] "Carekê"
+msgstr[1] "%s caran"
+
+#: View/Elements/lyric/entry-meta.ctp:15;17 View/Elements/~/entry-meta.ctp:29
+msgid "Seen %s times"
+msgstr "%s caran hate dîtin"
+
+#: View/Elements/tags/tags_board.ctp:10
+msgid "add tags"
+msgstr ""
+
+#: View/Elements/tags/tags_board.ctp:12
+msgid "edit tags"
+msgstr ""
+
+#: View/Elements/~/entry-action.ctp:23
+msgid "Edit History"
+msgstr ""
+
+#: View/Find/empty.ctp:24 View/Find/find.ctp:24
+msgid "Search for %s"
+msgstr "Gerîna li %s"
+
+#: View/Find/empty.ctp:26 View/Find/find.ctp:26 View/Find/find_album.ctp:30
+#: View/Find/find_artist.ctp:30 View/Find/find_lyric.ctp:30
+msgid "Results (%s)"
+msgstr "Encam (%s)"
+
+#: View/Find/empty.ctp:27 View/Find/find.ctp:95
+msgid "Nothing found!"
+msgstr "Tiştek nehate dîtin!"
+
+#: View/Find/empty.ctp:39
+msgid "Nothing found for %s keyword!"
+msgstr "Li gor %s tiştek nehate dîtin!"
+
+#: View/Find/find.ctp:56
+msgid "View more %s lyrics"
+msgstr "Stranên din yên %s bibîn."
+
+#: View/Find/find.ctp:71
+msgid "View more %s albums"
+msgstr "Berhên din yên %s bibîn."
+
+#: View/Find/find.ctp:86
+msgid "View more %s artists"
+msgstr "Hunermendên din yên %s bibîn."
+
+#: View/Find/find.ctp:96
+msgid "Nothing were found in database,please try another keyword."
+msgstr ""
+"Tiştek di bingeha zaniyariyan de nehate dîtin, bê zehmet peyveke dî bi kar "
+"bîn."
+
+#: View/Find/find.ctp:100 View/Find/index.ctp:38
+msgid "Please write your keyword for seaching."
+msgstr "Peyva xwe binivîse û lêbigere."
+
+#: View/Find/find_album.ctp:28
+msgid "Search for %s between albums"
+msgstr "Li %s bigere di nava berheman de"
+
+#: View/Find/find_album.ctp:60
+msgid "There is no matched albums to %s"
+msgstr "Berhem li gor %s tune ne"
+
+#: View/Find/find_artist.ctp:28 View/Find/find_lyric.ctp:28
+msgid "Search for %s between artists"
+msgstr "Li %s bigere di nava hunermendan de"
+
+#: View/Find/find_artist.ctp:57
+msgid "There is no matched artists to %s"
+msgstr "Hunermend  li gor %s tune ne"
+
+#: View/Find/find_lyric.ctp:56
+msgid "There is no matched lyrics to %s"
+msgstr "Li %s bigere di nava stranan de"
+
+#: View/Find/index.ctp:25
+msgid "Here you can search for what you need in HK."
+msgstr "Li vêderê hûn dikarin li tiştê bixwazin bigerin."
+
+#: View/Find/index.ctp:26
+msgid "Insert a keyword and press search."
+msgstr "Peyvekê binivîse û lêbigere."
+
+#: View/Helper/HKHelper.php:25;32;39
+msgid "%s has edited %s"
+msgstr "%s %s sererastkir"
+
+#: View/Helper/HKHelper.php:26;33;40
+msgid "%s has requested to edit %s"
+msgstr "%s daxwaza sererastkirina %s kir"
+
+#: View/Helper/HKHelper.php:27;34;41
+msgid "%s has deleted %s"
+msgstr "%s %s jêbir"
+
+#: View/Helper/HKHelper.php:28;35;42
+msgid "%s has requested to delete %s"
+msgstr "%s daxwaza jêbirina %s kir"
+
+#: View/Helper/HKHelper.php:29;36;43
+msgid "%s has accepted %s"
+msgstr "%s %s pejirand"
+
+#: View/Helper/HKHelper.php:30;37;44
+msgid "%s has declined %s"
+msgstr "%s %s nebipejirand"
+
+#: View/Layouts/error.ctp:7 View/Errors/error400.ctp:22
+#: View/Errors/error500.ctp:12 View/Errors/missing_view.ctp:20
+#: View/Errors/fatal_error.ctp:12 View/Errors/missing_action.ctp:12;16
+#: View/Errors/missing_controller.ctp:15;19 View/Errors/pdo_error.ctp:12
+msgid "Error"
+msgstr "Şaşî"
+
+#: View/Lyrics/add.ctp:38
+msgid "Please Select Artist and Album to complete."
+msgstr "Bê zehmet hunermend û berhemê hilbijêre."
+
+#: View/Lyrics/add.ctp:90
+msgid "Invalid artist."
+msgstr "Hunermend ne berdest e."
+
+#: View/Lyrics/add.ctp:96
+msgid "There is no albums to show."
+msgstr "Ti berhem tune ne bo temaşekirinê."
+
+#: View/Lyrics/add.ctp:111
+msgid "Error fetching array."
+msgstr "Şaşî di hanîna zanyariya de heye."
+
+#: View/Lyrics/add.ctp:152 View/Lyrics/add_album.ctp:18
+#: View/Lyrics/add_artist.ctp:25 View/Lyrics/add_no_album.ctp:5
+msgid "New lyric"
+msgstr "Straneke nû"
+
+#: View/Lyrics/add.ctp:159
+msgid "Change details"
+msgstr "Zaniyariyan Biguhere "
+
+#: View/Lyrics/add.ctp:168
+msgid "Please select an artist and ablum before add your lyric."
+msgstr "Bê zehmet hunermend û berhemê hilbijêre berî lêzêdekirina stranekê "
+
+#: View/Lyrics/add.ctp:187
+msgid "Select"
+msgstr "Hilbijêre "
+
+#: View/Lyrics/add.ctp:198 View/Lyrics/add_album.ctp:38
+#: View/Lyrics/add_artist.ctp:57 View/Lyrics/edit.ctp:42
+msgid " Title"
+msgstr "Nasnav"
+
+#: View/Lyrics/add.ctp:203 View/Lyrics/add_album.ctp:43
+#: View/Lyrics/add_artist.ctp:62 View/Lyrics/edit.ctp:47
+msgid " Writer"
+msgstr "Nivîskar"
+
+#: View/Lyrics/add.ctp:212 View/Lyrics/add_album.ctp:53
+#: View/Lyrics/add_artist.ctp:72 View/Lyrics/edit.ctp:57
+msgid " # (Track-Number)"
+msgstr "Hejmar "
+
+#: View/Lyrics/add.ctp:217 View/Lyrics/add_album.ctp:58
+#: View/Lyrics/add_artist.ctp:77 View/Lyrics/edit.ctp:62
+msgid " Text"
+msgstr "Nivîsk"
+
+#: View/Lyrics/add.ctp:223 View/Lyrics/add_album.ctp:64
+#: View/Lyrics/add_artist.ctp:82 View/Lyrics/edit.ctp:68
+msgid " Source"
+msgstr "Jêder"
+
+#: View/Lyrics/add_album.ctp:25 View/Lyrics/add_artist.ctp:31
+msgid "Change artist"
+msgstr "Guhertina hunermend "
+
+#: View/Lyrics/add_artist.ctp:50
+msgid "Your album is not existed?"
+msgstr "Berhemê te tune ye?"
+
+#: View/Lyrics/add_no_album.ctp:17
+msgid "No albums added for %s."
+msgstr "Ti berhemên %s nehate dîtin."
+
+#: View/Lyrics/add_no_album.ctp:18
+msgid "This artist has no albums, so you have to choose one of below options."
+msgstr "Ti berhemên vî hunermendî nehate dîtin."
+
+#: View/Lyrics/add_no_album.ctp:41
+msgid "Change Artist"
+msgstr "Hunermend biguhere "
+
+#: View/Lyrics/edit.ctp:30
+msgid "delete %s"
+msgstr "% jêbib"
+
+#: View/Lyrics/edit.ctp:76
+msgid "Add to history"
+msgstr ""
+
+#: View/Lyrics/edit.ctp:77
+msgid "To register your change to history board."
+msgstr ""
+
+#: View/Lyrics/edit.ctp:81
+msgid "Show"
+msgstr ""
+
+#: View/Lyrics/edit.ctp:81
+msgid "Hide"
+msgstr ""
+
+#: View/Lyrics/history.ctp:31
+msgid "accepted"
+msgstr "Pejirandî"
+
+#: View/Lyrics/history.ctp:32
+msgid "pending"
+msgstr "Li hêvî"
+
+#: View/Lyrics/history.ctp:33
+msgid "declined"
+msgstr "Nepejirandî"
+
+#: View/Lyrics/history.ctp:38
+msgid "There is no available edits for this lyric."
+msgstr "Guhertin niha tune ne."
+
+#: View/Lyrics/history.ctp:46
+msgid "This lyric has been edited for %s times."
+msgstr "Ev strana %s cara haitye guhertin."
+
+#: View/Lyrics/history.ctp:47
+msgid "Last edit was at %s"
+msgstr "Guhertina herî dawî di %s hate encamdan."
+
+#: View/Lyrics/history.ctp:48
+msgid "You can follow the changes through down panels."
+msgstr "Hûn dikarin li xwarê guhertinan bibînin."
+
+#: View/Lyrics/history.ctp:99
+msgid "decline"
+msgstr "Nepejirîn"
+
+#: View/Lyrics/history.ctp:109
+msgid "Current"
+msgstr "Nuha"
+
+#: View/Lyrics/history.ctp:122
+msgid "Title"
+msgstr "Nasnav"
+
+#: View/Lyrics/history.ctp:127
+msgid "echelon"
+msgstr "Hejmar"
+
+#: View/Lyrics/history.ctp:132
+msgid "Source"
+msgstr "Jêder"
+
+#: View/Lyrics/index.ctp:93
+msgid "The lyric is not available for public yet (need to be approved)."
+msgstr "Ev stran hîn ne diyare ji xelkê ve (divê bê pejirandin)."
+
+#: View/Lyrics/index.ctp:111
+msgid "# : %s"
+msgstr "# : %s"
+
+#: View/Lyrics/index.ctp:116
+msgid "Writer : %s"
+msgstr "Nivîser : %s"
+
+#: View/Lyrics/index.ctp:119
+msgid "Composer : %s"
+msgstr "Awazçêker : %s"
+
+#: View/Lyrics/lyricslist.ctp:12
+msgid "These are lyrics that you had added."
+msgstr "Ev stran te tevlêkirine."
+
+#: View/Lyrics/lyricslist.ctp:19
+msgid "({:count})"
+msgstr "({:count})"
+
+#: View/Lyrics/note.ctp:47
+msgid "Inform a mistake"
+msgstr "Şaşiyekê agah bide"
+
+#: View/Lyrics/note.ctp:54
+msgid "Your correction note will be sent to %s to be checked."
+msgstr "Bîrnivîska te dê bihêt şandin ji %s re bo venihêrînê."
+
+#: View/Lyrics/note.ctp:55
+msgid "You can be a part of HK comunity and correct it with your name"
+msgstr "Hûn dikarin bibin endamê civaka HK û bi destê xwe sererast bikin"
+
+#: View/Lyrics/note.ctp:61
+msgid ""
+"This information will be kept secret, and this message is sent just to the "
+"user."
+msgstr "Ev agahî wê bimîne zar, û ev peyam ji karhîner tenê re hate şandin."
+
+#: View/Lyrics/note.ctp:67 View/Requests/album.ctp:32
+#: View/Requests/artist.ctp:30 View/Requests/lyric.ctp:32
+#: View/Users/userslist.ctp:44
+msgid "Name"
+msgstr "Nav"
+
+#: View/Lyrics/note.ctp:70 View/Requests/album.ctp:35
+#: View/Requests/artist.ctp:33 View/Requests/lyric.ctp:35
+msgid "Your Email"
+msgstr "Epeyama te"
+
+#: View/Lyrics/note.ctp:75 View/Requests/album.ctp:40
+#: View/Requests/artist.ctp:38 View/Requests/lyric.ctp:40
+msgid "Your request message."
+msgstr "Peyama daxwazê"
+
+#: View/Lyrics/note.ctp:83
+msgid "Inform"
+msgstr "Agahdan"
+
+#: View/Requests/album.ctp:3 View/Requests/artist.ctp:3
+#: View/Requests/lyric.ctp:3 View/Requests/panel.ctp:3
+msgid "Requests"
+msgstr "Daxwaz"
+
+#: View/Requests/album.ctp:16
+msgid "Request an album from HK"
+msgstr "Berhemekê ji HK bixwaz"
+
+#: View/Requests/album.ctp:18 View/Requests/artist.ctp:17
+#: View/Requests/lyric.ctp:18
+msgid ""
+"Fill your name and Email, type your request message and press send to inform "
+"HK."
+msgstr "Nav û Epeyama xwe deyne, daxwaza xwe binvîse û HK agah bide."
+
+#: View/Requests/album.ctp:19 View/Requests/artist.ctp:18
+#: View/Requests/lyric.ctp:19
+msgid "Your request will be shown for public if you select to be public."
+msgstr "Wê her kes bibînê daxwaza we, ger we bo xelkê hilbijêrin."
+
+#: View/Requests/album.ctp:46 View/Requests/artist.ctp:44
+#: View/Requests/lyric.ctp:46
+msgid "Do you want to publish your request on public?"
+msgstr "Hûn dixwazin daxwaza we bo xelkê hemiyan be?"
+
+#: View/Requests/album.ctp:49 View/Requests/artist.ctp:47
+#: View/Requests/lyric.ctp:49
+msgid "Yes I want to show it to the public review."
+msgstr "Belê, ez dixwazim her kes bibîne."
+
+#: View/Requests/album.ctp:50 View/Requests/artist.ctp:48
+#: View/Requests/lyric.ctp:50
+msgid "No,keep it hide from public.only members will see it."
+msgstr "Na, ez dixwazim tenê endam bibînin."
+
+#: View/Requests/album.ctp:60 View/Requests/artist.ctp:60
+#: View/Requests/lyric.ctp:62
+msgid ""
+"Your email address will not be published,you will recive email when your "
+"request is found."
+msgstr ""
+"Epeyama te bo giştiyan nayê belavkirin, heger daxwaza te bihêt dîtin dê "
+"epeyamek bo te bihêt şandin"
+
+#: View/Requests/artist.ctp:15
+msgid "Request an artist from HK"
+msgstr "Daxwaza hunermendekî ji HK bike"
+
+#: View/Requests/index.ctp:15
+msgid "Request from HK"
+msgstr "Daxwaz ji HK"
+
+#: View/Requests/index.ctp:18
+msgid ""
+"Through request panel you will be able to request what you need, or what we "
+"missed."
+msgstr ""
+"Di riya tebloya daxwazan hûn dikarin her pêdiviyên xwe bixwazin, yan tiştê "
+"me ji bîr kiribe."
+
+#: View/Requests/index.ctp:19
+msgid "Please select what you need bellow."
+msgstr "Tiştê di dixwazî li jêr hilbijêre."
+
+#: View/Requests/index.ctp:85
+msgid "Recent requests"
+msgstr "Daxwazên dawî"
+
+#: View/Requests/index.ctp:97
+msgid "More Requests"
+msgstr "Daxwazên bêhtir"
+
+#: View/Requests/lyric.ctp:16
+msgid "Request a lyric from HK"
+msgstr "Daxwaza strana ji HK bike"
+
+#: View/Requests/panel.ctp:4;16
+msgid "Requests panel"
+msgstr "Tabloya daxwazan"
+
+#: View/Requests/panel.ctp:20
+msgid ""
+"Visibility of request means that the request is available for public review."
+msgstr "Xuyaniya daxwazê bi wateya xelk karibe bibîne."
+
+#: View/Requests/panel.ctp:22
+msgid "Unvisible request"
+msgstr "Daxwazeke nexuya"
+
+#: View/Requests/panel.ctp:23
+msgid "Visible request"
+msgstr "Daxwazeke xuya"
+
+#: View/Requests/panel.ctp:33
+msgid "Sort List by"
+msgstr "Ristvekirina lîsteyê li gor"
+
+#: View/Users/add_photo.ctp:9 View/Users/add_photo_crop.ctp:14
+#: View/Users/add_photo_thumb_view.ctp:10
+msgid "Photo"
+msgstr "Wêne"
+
+#: View/Users/add_photo.ctp:22
+msgid "Select profile thumbnail and click upload."
+msgstr "Wêneyê pênasînê hilbijêre û dûre barke."
+
+#: View/Users/login.ctp:16
+msgid ""
+"You can login with your Email adress or username,you can also login with "
+"your facebook account."
+msgstr ""
+"Hûn dikrin di rêya sernavê xwe têkevin, û hûn dikrin di rêya Facebookê re jî "
+"têkevin."
+
+#: View/Users/login.ctp:32 View/Users/signup.ctp:79
+msgid "Username"
+msgstr "Karhêner"
+
+#: View/Users/login.ctp:40 View/Users/signup.ctp:140
+msgid "Password"
+msgstr "Şîfre"
+
+#: View/Users/login.ctp:64
+msgid "Sign Up Here"
+msgstr "Li vir beşdar be "
+
+#: View/Users/profile.ctp:61
+msgid "Property review"
+msgstr "Çalakiyan bibîne"
+
+#: View/Users/profile.ctp:70
+msgid "No artists yet."
+msgstr "Ti hunermend tune ne."
+
+#: View/Users/profile.ctp:73
+msgid "Latest Artists"
+msgstr "Hunermendên dawî"
+
+#: View/Users/profile.ctp:84
+msgid "Show all %s's artists"
+msgstr "Hemû hunermendê %s binêr"
+
+#: View/Users/profile.ctp:90
+msgid "No albums yet."
+msgstr "Ti berhem tune ne."
+
+#: View/Users/profile.ctp:93
+msgid "Latest Albums"
+msgstr "Berhemên dawî"
+
+#: View/Users/profile.ctp:105
+msgid "Show all %s's albums"
+msgstr "Hemû berhemên %s binêr"
+
+#: View/Users/profile.ctp:115;142
+msgid "No lyrics yet."
+msgstr "Ti stran tune ne."
+
+#: View/Users/profile.ctp:167
+msgid "Show all %s's lyrics"
+msgstr "Hemû stranên %s binêr"
+
+#: View/Users/property.ctp:5 View/Users/property_album.ctp:5
+#: View/Users/property_artist.ctp:5 View/Users/property_lyric.ctp:5
+msgid "Property"
+msgstr "Çalakî"
+
+#: View/Users/property.ctp:15 View/Users/property_album.ctp:16
+#: View/Users/property_artist.ctp:16 View/Users/property_lyric.ctp:16
+msgid "%s's property"
+msgstr "Çalakiyên %s"
+
+#: View/Users/property.ctp:17
+msgid "Please select the property section."
+msgstr "Beşê ku hûn dixwazin hilbijêre."
+
+#: View/Users/property_album.ctp:18
+msgid "%s means if the album is availabe for public view."
+msgstr "%s bi wateya ku berhem ji herkes ve diyar e."
+
+#: View/Users/property_album.ctp:52 View/Users/property_artist.ctp:50
+#: View/Users/property_lyric.ctp:49
+msgid "Created"
+msgstr "Hate afirandin "
+
+#: View/Users/property_artist.ctp:18
+msgid "%s means if the artist is availabe for public view."
+msgstr "%s bi wateya ku hunermend ji herkes ve diyar e."
+
+#: View/Users/property_lyric.ctp:18
+msgid "%s means if the lyric is availabe for public view."
+msgstr "%s bi wateya ku stran ji herkes ve diyar e."
+
+#: View/Users/property_lyric.ctp:50
+msgid "Views"
+msgstr "Dîtin"
+
+#: View/Users/recovery.ctp:7
+msgid "Recovery password"
+msgstr "Şîfrê bi destxe"
+
+#: View/Users/recovery.ctp:8
+msgid "Follow the instructions bellow."
+msgstr "Binêr li fermanên xwarê."
+
+#: View/Users/settings.ctp:34;102
+msgid "Change your password"
+msgstr "Şîfrê biguhere"
+
+#: View/Users/settings.ctp:44
+msgid "Here is your main settings"
+msgstr "Eyarên giştî yên hesabê"
+
+#: View/Users/settings.ctp:52
+msgid "Change your picture"
+msgstr "Wênê biguhere"
+
+#: View/Users/settings.ctp:56
+msgid "User name"
+msgstr "Navê endam"
+
+#: View/Users/settings.ctp:72
+msgid "Biography"
+msgstr "Jiyanname"
+
+#: View/Users/settings.ctp:72
+msgid "%s Letters"
+msgstr "%s tîp"
+
+#: View/Users/settings.ctp:76
+msgid "Birthday"
+msgstr "Rojbûn"
+
+#: View/Users/settings.ctp:106
+msgid "Password has been updated successfully."
+msgstr "Şîfre bi serkeftî hate nûjenkirin."
+
+#: View/Users/settings.ctp:109;147
+msgid "Close"
+msgstr "Bigir"
+
+#: View/Users/settings.ctp:115
+msgid "Please provide your old password and enter a new pasword twice"
+msgstr "Şîfreya xwe ya kevn deyne, ya nû jî du caran wekî hev binvîse."
+
+#: View/Users/settings.ctp:116;140
+msgid "Password should be (6-24) characters."
+msgstr "Pêwîste şîfre di navbera (6-24) tîpan de be."
+
+#: View/Users/settings.ctp:122
+msgid "old password"
+msgstr "Şîfreya berê"
+
+#: View/Users/settings.ctp:124
+msgid "Provide new password twice."
+msgstr "Şîfreya nû du caran."
+
+#: View/Users/settings.ctp:127
+msgid "new password"
+msgstr "Şîfreya nû"
+
+#: View/Users/settings.ctp:131
+msgid "new password again"
+msgstr "Şîfreya nû dîsa"
+
+#: View/Users/settings.ctp:139
+msgid "Provided password is not valid."
+msgstr "Şîfreya we ne durust e."
+
+#: View/Users/settings.ctp:141
+msgid "New password should be (6-24) characters."
+msgstr "Pêwîste Şîfre di navbera (6-24) tîpan de be."
+
+#: View/Users/settings.ctp:142
+msgid "Both fields should have same password."
+msgstr "Pêwîste herdu wekî hev bin."
+
+#: View/Users/settings.ctp:148
+msgid "Save changes"
+msgstr "Guhertinan tomar bike"
+
+#: View/Users/signup.ctp:15;53
+msgid "New user"
+msgstr "Endamekî  nû"
+
+#: View/Users/signup.ctp:23
+msgid "Signing in is easy. You can either:"
+msgstr "Tomarkirin hêsan e. Hûn dikarin:"
+
+#: View/Users/signup.ctp:25
+msgid ""
+"Provide a username and your Email and start imediatly to add your own lyrics."
+msgstr "Tenê sernav û epayama xwe têxin û yekser bibin endamê HK."
+
+#: View/Users/signup.ctp:26
+msgid "Register with your social account."
+msgstr "Di rêya hesabê civakî re bibin endam."
+
+#: View/Users/signup.ctp:30
+msgid ""
+"Username can contain any letters or numbers, without spaces. Between (4-24) "
+"letters."
+msgstr ""
+"Navê endam tîp û hejmarê Înglîzî ne û  di nava (4 -24) tîpan berdest e."
+
+#: View/Users/signup.ctp:33 Model/User.php:validation for field username
+msgid "Username starts with letter and undercore (_) only allowed."
+msgstr "Destpêka navê endam tenê tîp in. Bo valahiyê _ bikar tê."
+
+#: View/Users/signup.ctp:36
+msgid "Email address must be correct."
+msgstr "Epeyam pêwîste rast be."
+
+#: View/Users/signup.ctp:39;124
+msgid "Password is between (6-24) letters."
+msgstr "Şîfre di nava (6 -24) tîpan berdest e."
+
+#: View/Users/signup.ctp:63
+msgid "Please provide valid username."
+msgstr "Karhênerekî durust pêşkêş bike."
+
+#: View/Users/signup.ctp:67
+msgid "Username '%s' is already taken. Try another username."
+msgstr ""
+"Bikarhêner '%s' berê hatiye birin. Ji kerema xwe navekî din hilbijêrin."
+
+#: View/Users/signup.ctp:71
+msgid "Username '%s' is available."
+msgstr "Bikarhêner '%s' dibe."
+
+#: View/Users/signup.ctp:93
+msgid "Please provide a valid Email."
+msgstr "Epeyamek berdest pêşkêş bike."
+
+#: View/Users/signup.ctp:97
+msgid "Email '%s' is already registerd. Try another email."
+msgstr "Epeyama '%s' berê bikar hatiye. Ji kerema xwe yeke din hilbijêrin."
+
+#: View/Users/signup.ctp:101
+msgid "Email '%s' is available."
+msgstr "Epeyama '%s' dibe."
+
+#: View/Users/signup.ctp:109
+msgid "Email"
+msgstr "Epeyam "
+
+#: View/Users/signup.ctp:120
+msgid "Please provide valid password."
+msgstr "Şîfreyeke durust pêşkêş bike."
+
+#: View/Users/signup.ctp:128
+msgid "Please confirm password."
+msgstr "Şîfrê cardin Binivîse."
+
+#: View/Users/signup.ctp:132
+msgid "Password confirmation is done."
+msgstr "Şîfre bi awakî serkeftî bû."
+
+#: View/Users/signup.ctp:148
+msgid "Password (Confirm)"
+msgstr "Şîfre (Dîsa)"
+
+#: View/Users/userslist.ctp:45
+msgid "username"
+msgstr "karhêner"
+
+# Ez li gor malperê çûm.
+#: View/Users/userslist.ctp:46
+msgid "counters"
+msgstr "çalakî"
+
+#: View/Users/userslist.ctp:47
+msgid "rank"
+msgstr "pile"
+
+# Li gor malperê.
+#: View/Users/userslist.ctp:74
+msgid "View"
+msgstr "Bibîn"
+
+#: View/Users/userslist.ctp:78
+msgid "Inactive"
+msgstr "Bikuje"
+
+#: View/Users/userslist_empty.ctp:25
+msgid "There is no matched users to %s"
+msgstr "Ti endam li gorî %s nehatin dîtin."
+
+#: View/Users/userslist_start.ctp:24
+msgid "Please select a letter to start view users."
+msgstr "Tîpê li jor yên navê endaman e. Tîpekê hilbijêr bo vekolînan."
+
+#: Model/Album.php:validation for field unique Model/Artist.php:validation
+#: Model/Lyric.php:validation Model/User.php:validation
+msgid "notUnique[9]"
+msgstr "NeYekta"
+
+#: Model/Album.php:validation for field unique Model/Artist.php:validation
+#: Model/Lyric.php:validation Model/User.php:validation
+msgid "Unique ID Issue! [NAlph#]"
+msgstr "Yekta_##"
+
+#: Model/Album.php:validation for field unique Model/Artist.php:validation
+#: Model/Lyric.php:validation Model/User.php:validation
+msgid "Unique ID Issue!"
+msgstr "NNM_Yekta_##"
+
+#: Model/Album.php:validation for field title
+msgid "Album title is already exists."
+msgstr "Sernavê berhemê berê heye."
+
+#: Model/Album.php:validation for field title
+msgid "You can't leave album title blank."
+msgstr "Nabe hûn sernavê berhemê vala bihêlin."
+
+#: Model/Album.php:validation for field title Model/Artist.php:validation name
+msgid "At maximum 32 letters"
+msgstr "Bi pirranî 32 tîp "
+
+#: Model/Album.php:validation for field title Model/Artist.php:validation name
+#: Model/Lyric.php:validation title;validation writer;validation composer
+msgid "At least 2 letters."
+msgstr "Bi kêmanî 2 tîp."
+
+#: Model/Album.php:validation for field artist_id Model/Lyric.php:validation
+msgid "Artist id error[E#]"
+msgstr "Pênasîna hunermend şaş e _ #1"
+
+#: Model/Album.php:validation for field artist_id Model/Lyric.php:validation
+msgid "Artist id error[L#Ma]"
+msgstr "Pênasîna hunermend şaş e _ #2"
+
+#: Model/Album.php:validation for field artist_id Model/Lyric.php:validation
+msgid "Artist id error[L#Mi]"
+msgstr "Pênasîna hunermend şaş e _ #3"
+
+#: Model/Album.php:validation for field year
+msgid "Year must be 4 numbers."
+msgstr "Divê sal 4 hejmar be."
+
+#: Model/Artist.php:validation for field name
+msgid "Artist name is already exists."
+msgstr "Navê hunermend berê heye."
+
+#: Model/Artist.php:validation for field name
+msgid "You can't leave artist name blank."
+msgstr "Nabe hûn navê hunermend vala bihêlin."
+
+#: Model/Lyric.php:validation for field artist_id;validation album_id
+msgid "ID Issue! [Nn#]"
+msgstr "Doza pênasînê! #_530_70"
+
+#: Model/Lyric.php:validation for field album_id
+msgid "Album id error[E#]"
+msgstr "Pênasîna berhemê şaş e #_1_2"
+
+#: Model/Lyric.php:validation for field album_id
+msgid "Album doen't belong to Artist."
+msgstr "Berhem ne têkildar e bi hunermend ve."
+
+#: Model/Lyric.php:validation for field album_id
+msgid "Album id error[L#Ma]"
+msgstr "Berhem şaş e #_1_3"
+
+#: Model/Lyric.php:validation for field album_id
+msgid "Album id error[L#Mi]"
+msgstr "Berhem şaş e #_1_4"
+
+#: Model/Lyric.php:validation for field title;validation echelon;validation
+#: text
+msgid "You can't leave it blank."
+msgstr "Nabe hûn  vala bihêlin."
+
+#: Model/Lyric.php:validation for field title
+msgid "Lyric title is already exists."
+msgstr "Sernavê stranê berê heye."
+
+#: Model/Lyric.php:validation for field title;validation writer;validation
+#: composer
+msgid "At maximum 64 letters"
+msgstr "Bi pirranî 64 tîp"
+
+#: Model/Lyric.php:validation for field echelon
+msgid "Lyric # should be numeric."
+msgstr "Hejmara stranê divê jimare be."
+
+#: Model/Message.php:validation for field message;validation marks
+msgid "notEmpty"
+msgstr "neVala"
+
+#: Model/Message.php:validation for field message;validation marks
+msgid "maxLength"
+msgstr "maxLength"
+
+#: Model/Message.php:validation for field message;validation marks
+msgid "minLength"
+msgstr "minLength"
+
+#: Model/Message.php:validation for field user_2
+msgid "numeric"
+msgstr "numeric"
+
+#: Model/Request.php:validation for field name
+msgid "Maximum letters (64)"
+msgstr "Bi pirranî 64 tîp."
+
+#: Model/Request.php:validation for field name;validation data;validation
+#: public
+msgid "You can not leave it empty."
+msgstr "Nabe hûn vala bihêlin."
+
+#: Model/Request.php:validation for field email Model/User.php:validation
+msgid "You can't leave Email blank."
+msgstr "Nabe hûn şûna Epeyamî vala bihêlin."
+
+#: Model/Request.php:validation for field email Model/User.php:validation
+msgid "maximum letters been reached"
+msgstr "Hûn gihiştî sînorê hejmara tîpan."
+
+#: Model/Request.php:validation for field data
+msgid "Maximum letters (256)"
+msgstr "Bi pirranî 64 tîp"
+
+#: Model/User.php:validation for field username
+msgid "Username is already in use."
+msgstr "Karhêner berê bi kar hatiye."
+
+#: Model/User.php:validation for field username
+msgid "You can't leave username blank."
+msgstr "Nabe hûn sernavê vala bihêlin."
+
+#: Model/User.php:validation for field username;validation password;validation
+#: name
+msgid "At maximum 24 letters."
+msgstr "Bi pirranî 24 tîp."
+
+#: Model/User.php:validation for field username;validation email;validation
+#: name
+msgid "At least 4 letters."
+msgstr "Bi kêmanî 4 tîp."
+
+#: Model/User.php:validation for field email
+msgid "Email adress is already in use."
+msgstr "Epeyam berê bi kar hatiye."
+
+#: Model/User.php:validation for field password
+msgid "You can't leave Password blank."
+msgstr "Nabe hûn şûna şîfreyê vala bihêlin."
+
+#: Model/User.php:validation for field password
+msgid "At least 6 letters."
+msgstr "Bi kêmanî 6 tîp."
+
+#: View/Errors/error400.ctp:24
+msgid "The requested address %s was not found on this server."
+msgstr "Navnîşana te xwest %s li ser malperê nehate dîtin."
+
+#: View/Errors/error500.ctp:13 View/Errors/missing_view.ctp:21
+msgid "An Internal Error Has Occurred."
+msgstr "Şaştiyek li hundirê mlperê da çêbû."
+
+#: View/Errors/fatal_error.ctp:8
+msgid "Fatal Error"
+msgstr "Şaştiyeke li nava malperê"
+
+#: View/Errors/fatal_error.ctp:16
+msgid "File"
+msgstr "Pel"
+
+#: View/Errors/fatal_error.ctp:20
+msgid "Line"
+msgstr "Xêz"
+
+#: View/Errors/fatal_error.ctp:32 View/Errors/missing_controller.ctp:37
+msgid "Notice"
+msgstr "Têbînî"
+
+#: View/Errors/fatal_error.ctp:33 View/Errors/missing_controller.ctp:38
+msgid "If you want to customize this error message, create %s"
+msgstr "Li vir e %s "
+
+#: View/Errors/missing_action.ctp:8
+msgid "Missing Method in %s"
+msgstr "Methouda kêm li vir %s"
+
+#: View/Errors/missing_action.ctp:13
+msgid "The action %1$s is not defined in controller %2$s"
+msgstr "Va %s li nava %s tun e!"
+
+#: View/Errors/missing_action.ctp:17
+msgid "Create %1$s%2$s in file: %3$s."
+msgstr "%1$s%2$s idi pela: %3$s. çê ke."
+
+#: View/Errors/missing_controller.ctp:11
+msgid "Missing Controller"
+msgstr "Missing Controller"
+
+#: View/Errors/missing_controller.ctp:16
+msgid "%s could not be found."
+msgstr "%s nehate dîtin."
+
+#: View/Errors/missing_controller.ctp:20
+msgid "Create the class %s below in file: %s"
+msgstr "Classa %s çê bike."
+
+#: View/Errors/pdo_error.ctp:8
+msgid "Database Error"
+msgstr "BingehaZaniyariyan nebû."
+
+#: View/Errors/pdo_error.ctp:17
+msgid "SQL Query"
+msgstr ""
+
+#: View/Errors/pdo_error.ctp:29
+msgid "SQL Query Params"
+msgstr ""
+
+#~ msgid "Welcome"
+#~ msgstr "Bi xêr hatî"
+
+#~ msgid "Your Name"
+#~ msgstr "Your Name"
+
+#~ msgid "Send"
+#~ msgstr "Bişîn"
+
+#~ msgid "Home"
+#~ msgstr "Destpêk"
+
+#~ msgid "A view block with the name '%s' is already/still open."
+#~ msgstr "WêneDanka %s hîn vekirî ye."
+
+#~ msgid "At maximum 256 letters"
+#~ msgstr "Bi pirranî 256 tîp."
+
+#~ msgid "Please input valid username."
+#~ msgstr "Karhênerkeî durust pêşkêş bike."
+
+#~ msgid "You are not authorized to access that location."
+#~ msgstr "Hûn nikarin li vêderê bibin."
+
+#~ msgid "Not Found"
+#~ msgstr "Nehate dîtin"
+
+#~ msgid "This field cannot be left blank"
+#~ msgstr "Ev navê val bimîne"
+
+#~ msgid "The requested file was not found"
+#~ msgstr "Pela te xwestî nehate dîtin."
+
+#~ msgid "%s KB"
+#~ msgstr "%s KB"
+
+#~ msgid "%s MB"
+#~ msgstr "%s MB"
+
+#~ msgid "%s GB"
+#~ msgstr "%s GB"
+
+#~ msgid "%s TB"
+#~ msgstr "%s TB"
+
+#~ msgid "%d Byte"
+#~ msgid_plural "%d Bytes"
+#~ msgstr[0] "%d Byte"
+#~ msgstr[1] "%d Bytes"
+
+#~ msgid "Today, %s"
+#~ msgstr "Îroj, %s"
+
+#~ msgid "Yesterday, %s"
+#~ msgstr "Doh, %s"
+
+#~ msgid "Tomorrow, %s"
+#~ msgstr "Beyanî, %s"
+
+#~ msgid "Sunday"
+#~ msgstr "Yekşem"
+
+#~ msgid "Monday"
+#~ msgstr "Duşem"
+
+#~ msgid "Tuesday"
+#~ msgstr "Sêşem"
+
+#~ msgid "Wednesday"
+#~ msgstr "Çarşem"
+
+#~ msgid "Thursday"
+#~ msgstr "Pêncşem"
+
+#~ msgid "Friday"
+#~ msgstr "În"
+
+#~ msgid "Saturday"
+#~ msgstr "Şem"
+
+#~ msgid "On %s %s"
+#~ msgstr "Di %s %s"
+
+#~ msgid "%s ago"
+#~ msgstr "%s berê"
+
+#~ msgid "on %s"
+#~ msgstr "Di %s"
+
+#~ msgid "just now"
+#~ msgstr "Aniha"
+
+#~ msgid "about a second ago"
+#~ msgstr "Nêzî çirkekê berê"
+
+#~ msgid "about a minute ago"
+#~ msgstr "Nêzî xulekekê berê"
+
+#~ msgid "about an hour ago"
+#~ msgstr "Nêzî demjmêrekê berê"
+
+#~ msgid "about a day ago"
+#~ msgstr "Nêzî rojekê berê"
+
+#~ msgid "about a week ago"
+#~ msgstr "Nêzî hefteyekê berê"
+
+#~ msgid "about a year ago"
+#~ msgstr "Nêzî salekê berê"
+
+#~ msgid "in about a second"
+#~ msgstr "Hema dû çirkekê"
+
+#~ msgid "in about a minute"
+#~ msgstr "Hema dû xulekekê"
+
+#~ msgid "in about an hour"
+#~ msgstr "Hema dû demjmêrekê"
+
+#~ msgid "in about a day"
+#~ msgstr "Hema dû rojekê"
+
+#~ msgid "in about a week"
+#~ msgstr "Hema dû hefteyekê"
+
+#~ msgid "in about a year"
+#~ msgstr "Hema dû salekê"
+
+#~ msgid "days"
+#~ msgstr "Roj"
+
+#~ msgid "%d year"
+#~ msgid_plural "%d years"
+#~ msgstr[0] "Salkê"
+#~ msgstr[1] "%d sal"
+
+#~ msgid "%d month"
+#~ msgid_plural "%d months"
+#~ msgstr[0] "mehekê"
+#~ msgstr[1] "%d meha"
+
+#~ msgid "%d week"
+#~ msgid_plural "%d weeks"
+#~ msgstr[0] "heftakê"
+#~ msgstr[1] "%d hefta"
+
+#~ msgid "%d day"
+#~ msgid_plural "%d days"
+#~ msgstr[0] "rojekê"
+#~ msgstr[1] "%d roja"
+
+#~ msgid "%d hour"
+#~ msgid_plural "%d hours"
+#~ msgstr[0] "demjmêrekê"
+#~ msgstr[1] "%d demjmêr"
+
+#~ msgid "%d minute"
+#~ msgid_plural "%d minutes"
+#~ msgstr[0] "xulekekê"
+#~ msgstr[1] "%d xuleka"
+
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "çirkakê"
+#~ msgstr[1] "%d %d çirka"
+
+#~ msgid "Error in field %s"
+#~ msgstr "Şaşî di lakêşa %s de"
+
+#~ msgid "New %s"
+#~ msgstr "%s'ke nû"
+
+#~ msgid "empty"
+#~ msgstr "vala"
+
+#~ msgid "Submit"
+#~ msgstr "Bişîne"
+
+#~ msgid "January"
+#~ msgstr "Çile"
+
+#~ msgid "February"
+#~ msgstr "Sibat"
+
+#~ msgid "March"
+#~ msgstr "Adar"
+
+#~ msgid "April"
+#~ msgstr "Avrêl"
+
+#~ msgid "May"
+#~ msgstr "Gulan"
+
+#~ msgid "June"
+#~ msgstr "Pûşber"
+
+#~ msgid "July"
+#~ msgstr "Tîrmeh"
+
+#~ msgid "August"
+#~ msgstr "Gelawêj"
+
+#~ msgid "September"
+#~ msgstr "Rezber"
+
+#~ msgid "October"
+#~ msgstr "Cotmeh"
+
+#~ msgid "November"
+#~ msgstr "Mijdar"
+
+#~ msgid "December"
+#~ msgstr "Berfanbar"
+
+#~ msgid " of "
+#~ msgstr "Ji"
+
+#~ msgid "Actions"
+#~ msgstr "Bûyer"
+
+#~ msgid "List"
+#~ msgstr "Lîste"
+
+#~ msgid "List %s"
+#~ msgstr "Lîsteya %s"
+
+#~ msgid "previous"
+#~ msgstr "Paş ve"
+
+#~ msgid "next"
+#~ msgstr "Pêş ve"
+
+#~ msgid "View %s"
+#~ msgstr "%s bibîn3"
+
+#~ msgid "Delete %s"
+#~ msgstr "%s jêbibe"
+
+#~ msgid "Related %s"
+#~ msgstr "%s'ke Têklîdar"
