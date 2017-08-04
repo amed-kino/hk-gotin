@@ -1,0 +1,83 @@
+.player{background-color: #E74C3C;color:#FFF;}
+.upper-container{width:100%;height: 30px;text-align: center;}
+.jp-progress{height:10px;width:89%;margin: 10px auto;overflow:hidden;background-color:#EC9C9C;z-index: 1001;}
+.jp-seek-bar{background-color: #EB6A5D;width:0;height:100%;cursor:pointer}
+.jp-play-bar{background-color: #FFF;width:0;height:100%}
+.jp-seeking-bg{background:url(https://hunerakurdi.com/wene/seeking.gif)}
+.lower-container{background-color:#E74C3C;}
+.logo-container{width:120px;height:120px;}
+.control-container{margin: 40px 10px;}
+.jp-controls{float:right;}
+.download-container{float: left;position: relative;top: 7px;}
+.jp-download{background-color:#e74c3c;color:#FFF;font-size: 17px;border-radius:2px;border: 1px solid #EC9C9C;margin: 4px 8px;padding: 3px 8px 5px;float: right}
+.jp-download:hover{color:#FFF;background-color: #e85c4d}
+.jp-download:before {font-family: 'Glyphicons Halflings';content: "\e002";position: relative;top: 3px;}
+.audio-container{margin: 40px 10px;float:right;width:190px}
+
+.jp-audio :focus,.jp-audio-stream :focus{outline:0}
+.jp-audio button::-moz-focus-inner,.jp-audio-stream button::-moz-focus-inner{border:0}
+.jp-audio,.jp-audio-stream{}
+
+.jp-controls button{font-family: "Glyphicons Halflings";font-size: 19px;display:block;float:left;overflow:hidden;border:none;border-radius: 55px;cursor:pointer}
+.jp-play:before{content: "\e072";position:relative;    top: -1px;left: 2px;font-size: 30px;}
+.jp-play{background-color:#FFF;color:#E74C3C;width:55px;height:55px;margin:0 18px}
+.jp-play:focus{color:#EC9C9C;}
+.jp-state-playing .jp-play:before{content: "\e073";}
+.jp-toggles button,.jp-stop{background-color: #FFFFFF;color: #E74C3C;width:45px;height:45px;margin:5px 0;}
+.jp-stop:before{content: "\e074";position:relative;top:0;left:-0.8px;}
+.jp-stop:focus{color:#EC9C9C;}
+
+.jp-toggles button{color: #EB6A5D;background-color:#EC9C9C;cursor:pointer}
+.jp-repeat{background-color: #EC9C9C;}
+.jp-repeat:before{content: "\e115";position:relative;top:0.6px;left:0.3px;}
+.jp-repeat:focus{color:#E74C3C;}
+.jp-state-looped .jp-repeat:before{content: "\e115";}
+.jp-state-looped .jp-repeat{background-color:#FFF;color:#E74C3C;}
+.jp-state-looped .jp-repeat:focus{color:#E74C3C;}
+
+.jp-state-no-volume .jp-volume-controls{display:none}
+.jp-audio-stream .jp-volume-controls{left:70px}
+.jp-volume-controls button{font-family: "Glyphicons Halflings";color: #191919;background-color: #09E9A9;display:block;position:absolute;overflow:hidden;border:none;cursor:pointer}
+.jp-mute,.jp-volume-max{font-size: 24px;color:#FFF;width:35px;height:30px;top:23px;right:32px;text-align: center;    }
+.jp-volume-max{float: right;}
+.jp-mute:before{content: "\e037";}
+.jp-mute:focus{color:#EC9C9C;}
+.jp-state-muted .jp-mute:before{content: "\e036";color:#EC9C9C;}
+.jp-state-muted .jp-mute:focus{color:#2D85B5;}
+.jp-volume-max:before{content: "\e038";}
+.jp-volume-max:focus{color:#EC9C9C;}
+.jp-volume-bar{overflow: hidden;background-color: #EB6A5D;width: 90px;height: 10px;cursor: pointer;}
+.jp-volume-bar-value{background-color:#FFF;width:0;height:10px}
+.jp-time-holder{width: 100%;position: relative;top: 13px;right:8px;}
+.jp-current-time,.jp-duration{width:60px;font-size:.64em;font-style:oblique}
+.jp-current-time{float:left;display:inline;cursor:default}
+.jp-duration{float:right;display:inline;text-align:right;cursor:pointer}
+.jp-jplayer,.jp-jplayer audio{width:0;height:0}
+.jp-toggles{padding:0;margin:0 4px;overflow:hidden}
+.jp-audio .jp-toggles{float: left;}
+
+
+
+@media print, screen and (min-width:1200px){ 
+/* lg */
+   
+
+}
+@media print, screen and (min-width:992px) and (max-width:1199px) { 
+/* md */
+   
+
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+/* sm */
+
+}
+@media only screen and (max-width:767px) {
+/* xs */
+.player{padding: 20px 0;}
+.control-container {margin: 0;}
+.jp-time-holder {top: 1px;opacity: 0.7;}
+.upper-container{position: relative;top: 110px;}
+.logo-container{position: relative;text-align: center;width: 100%;height: 90px;margin: 0 0 30px 0;bottom: 30px;}
+.lower-container{padding: 0 0 10px 0;}
+}

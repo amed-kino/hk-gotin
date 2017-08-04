@@ -1,0 +1,36 @@
+.field-error{border-color: #C22626;}
+.form-group{margin:0 0 0;}
+h4{margin-bottom:0;}
+#main .page-header .instruction{padding: 10px 15px;}
+#main .page-header .instruction p{padding: 0 10px;}
+#main .page-header .instruction ul{line-height: 1.1em;margin:0;padding: 5px 15px;}
+#main .page-header .instruction ul li{list-style-type: none;}
+#main .page-header .instruction ul.required li:before{position: relative;top: 2px;padding: 0;display: inline-block;color: #8a6d3b;content: "*";}
+
+.page-body{margin-bottom: 30px;padding: 0 10px;}
+.social-login{padding:20px 10px 0 20px;}
+#signup .signup-body .input{padding: 0 20px;margin: 0;}
+#signup .signup-body label{padding: 5px 0;top: 0px;left: -10px;}
+#signup .ajax{padding: 0 30px;margin:10px 0 0;font-size: 0.9em;display: inline-block;}
+#signup .username .caution{font-size: 0.95em;display: none;}
+#signup .username .invalid{color:#C22626;}
+#signup .username .not-available{color:#C22626;}
+#signup .username .username-pointer{text-decoration: underline;}
+#signup .username .available{color:#4CAF50;}
+
+    
+#signup .email .caution{font-size: 0.95em;display: none;}
+#signup .email .invalid{color:#C22626;}
+#signup .email .not-available{color:#C22626;}
+#signup .email .available{color:#4CAF50;}
+
+#signup .password .caution{font-size: 0.95em;display:none;}
+#signup .password .balnk{color:#C22626;}
+#signup .password .length{color:#C22626;}
+#signup .password .invalid-confirmation{color:#FF9800;}
+#signup .password .valid-confirmation{color:#4CAF50;}
+
+
+#signup .signup-actions {padding: 30px;}
+
+    

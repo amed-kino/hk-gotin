@@ -1,0 +1,2 @@
+<?php
+echo $this->Html->meta(array('name' => 'keywords', 'content' => 'Lyric,Lyrics,Kurdish Lyrics,Kurd lyric,Kürtçe Şarkı Sözleri,Kürtçe Şarkı Sözü,كلمات أغنية كردية,كلمات الأغاني الكردية,کرد شعر,اشعار کردی,هۆنراوه ی كوردى,Gotinên Strana,Gotinê Strana,Gotin,Stran'),'',array('inline'=>false));

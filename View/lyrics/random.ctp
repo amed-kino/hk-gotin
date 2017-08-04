@@ -1,0 +1,1 @@
+<?php foreach($random as $key => $value):?><p><?php echo $value['Lyric']['id']?></p><?php endforeach;?>

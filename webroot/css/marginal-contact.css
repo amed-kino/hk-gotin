@@ -1,0 +1,22 @@
+#marginal-contact{
+    position: fixed;
+    bottom: 0;
+    z-index: 1000;
+    overflow: hidden;
+    cursor: pointer;
+    padding: 6px 8px;
+    background-color: #09E9A9;
+    border-width: 0;
+    border-image: none;
+    border-radius: 0;
+    font-size: 15px;
+    opacity:0.8;}
+#marginal-contact:hover{opacity:1}
+#marginal-contact .dragger{overflow:hidden;cursor:pointer;}
+#marginal-contact-modal .error-board{display:none;color:#a94442;}
+#marginal-contact-modal .success-board{display:none;color:#5cb85c;}
+#marginal-contact-modal .success-board .modal-body .glyphicon{font-size:19px;position:relative;top:3px}
+#marginal-contact-modal .modal-header .modal-title .glyphicon{top:5px;font-size:24px;padding:4px;}
+#marginal-contact-modal .modal-body .ajax-spinner-container{min-width:20px;height:20px;float:right;margin:8px}
+#marginal-contact-modal .modal-body .ajax-spinner{width:16px;height:16px;background-image:url(../wene/ajax-spinner.gif);display:none}
+#marginal-contact-modal .modal-body .counter{font-size:14px;padding:5px;text-align:center;background-color:#F9F9F9}

@@ -1,0 +1,5 @@
+<ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" <?php if ($active=='artist'){echo 'class="active"';}?>><?php echo $this->Html->link(__('Artists').' (<span class="search-count-mini">'.$artists_params['count'].'</span>)',array('controller'=>'find','action'=>'index','section'=>'artists','section'=>'artists','key'=>$key),array('escape'=>false));?></li>
+    <li role="presentation" <?php if ($active=='album'){echo 'class="active"';}?>><?php echo $this->Html->link(__('Albums').' (<span class="search-count-mini">'.$albums_params['count'].'</span>)',array('controller'=>'find','action'=>'index','section'=>'albums','section'=>'albums','key'=>$key),array('escape'=>false));?></li>
+    <li role="presentation" <?php if ($active=='lyric'){echo 'class="active"';}?>><?php echo $this->Html->link(__('Lyrics').' (<span class="search-count-mini">'.$lyrics_params['count'].'</span>)',array('controller'=>'find','action'=>'index','section'=>'lyrics','section'=>'lyrics','key'=>$key),array('escape'=>false));?></li>    
+</ul>
